@@ -25,6 +25,9 @@ jobs:
           cp data/earnings.csv out/earnings.csv 2>/dev/null || true
           cp data/verify_latest.csv out/verify_latest.csv 2>/dev/null || true
           date -u +"%Y-%m-%dT%H:%M:%SZ" > out/last_run.txt
+          python3 notion_push.py || true
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
       - name: commit outputs
         run: |
           git config user.name harness-bot
