@@ -17,6 +17,7 @@ jobs:
       - name: run harness
         run: |
           set -e
+          mkdir -p out data
           python3 harness.py calendar > out/calendar.log 2>&1 || true
           python3 harness.py verify  > out/verify.txt   2>&1 || true
           python3 harness.py scan    > out/scan.txt     2>&1 || true
