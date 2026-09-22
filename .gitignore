@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/calendar.log
+data/journal.csv
+data/scored_latest.csv

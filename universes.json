@@ -1,0 +1,175 @@
+{
+  "exclude": [
+    "NVDA",
+    "MSFT",
+    "AAPL",
+    "AMZN",
+    "GOOGL",
+    "GOOG",
+    "META",
+    "AVGO",
+    "TSLA",
+    "BRK-B",
+    "BRK-A",
+    "LLY",
+    "JPM",
+    "NFLX",
+    "PH"
+  ],
+  "references": [
+    "SPY",
+    "XLU",
+    "IWM",
+    "MDY"
+  ],
+  "H1": {
+    "name": "Narrative propagation lag",
+    "leaders": [
+      "NVDA",
+      "MSFT",
+      "META",
+      "GOOGL",
+      "AMZN",
+      "ORCL",
+      "AVGO",
+      "AMD",
+      "TSM",
+      "CRWV"
+    ],
+    "leader_move_pct": 3.0,
+    "tickers": [
+      "ALAB",
+      "CRDO",
+      "MPWR",
+      "ONTO",
+      "CIEN",
+      "COHR",
+      "LITE",
+      "AAOI",
+      "FN",
+      "VRT",
+      "MOD",
+      "NVT",
+      "POWL",
+      "AAON",
+      "CLS",
+      "SMCI",
+      "DLR",
+      "APLD",
+      "IREN",
+      "CORZ",
+      "NBIS",
+      "WULF"
+    ],
+    "screen": {
+      "mcap_min": 2000000000.0,
+      "mcap_max": 100000000000.0,
+      "dollar_vol_min": 50000000.0
+    },
+    "time_stop": 3,
+    "loss_stop": 0.04
+  },
+  "H2": {
+    "name": "LLM news sentiment, small and mid caps",
+    "tickers": [
+      "ESE",
+      "FSS",
+      "GFF",
+      "ALG",
+      "TRN",
+      "GBX",
+      "BOOT",
+      "SHAK",
+      "WING",
+      "OLLI",
+      "PLNT",
+      "ACAD",
+      "ACHC",
+      "LNTH",
+      "OMCL",
+      "PRCT",
+      "APPF",
+      "BRZE",
+      "KVYO",
+      "ALRM",
+      "PCOR",
+      "PIPR",
+      "VIRT",
+      "ESNT",
+      "RLI",
+      "SKWD"
+    ],
+    "screen": {
+      "mcap_min": 500000000.0,
+      "mcap_max": 8000000000.0,
+      "price_min": 5,
+      "dollar_vol_min": 5000000.0,
+      "dollar_vol_max": 150000000.0
+    },
+    "time_stop": 2,
+    "loss_stop": 0.04
+  },
+  "H3": {
+    "name": "Domain catalyst: nuclear, utilities, grid",
+    "tickers": [
+      "CCJ",
+      "LEU",
+      "UEC",
+      "UUUU",
+      "DNN",
+      "NXE",
+      "URG",
+      "BWXT",
+      "CW",
+      "MIR",
+      "OKLO",
+      "SMR",
+      "NNE",
+      "FLR",
+      "CEG",
+      "VST",
+      "TLN",
+      "PEG",
+      "ETR",
+      "D",
+      "SO",
+      "PNW",
+      "AEP",
+      "NRG",
+      "GEV",
+      "PWR",
+      "MYRG",
+      "POWL",
+      "HUBB",
+      "PRIM",
+      "MTZ",
+      "AZZ",
+      "IESC",
+      "AGX"
+    ],
+    "screen": {
+      "mcap_min": 300000000.0,
+      "dollar_vol_min": 5000000.0
+    },
+    "time_stop": 5,
+    "loss_stop": 0.05
+  },
+  "H11": {
+    "name": "Earnings calendar: run-up and drift",
+    "pool_source": "sp400",
+    "screen": {
+      "mcap_min": 500000000.0,
+      "mcap_max": 20000000000.0,
+      "dollar_vol_min": 10000000.0
+    },
+    "runup_days_before": [
+      3,
+      5
+    ],
+    "drift_time_stop": [
+      5,
+      10
+    ],
+    "drift_loss_stop": 0.05
+  }
+}
