@@ -170,6 +170,9 @@
       5,
       10
     ],
-    "drift_loss_stop": 0.05
+    "drift_loss_stop": 0.05,
+    "runup_loss_stop": 0.04,
+    "runup_loss_stop_note": "Provisional 2026-09-22, set by Claude to match H1/H2; Chris to confirm or change at Friday review",
+    "control": "equal-weight cohort of names reporting within 5 days of the trade name (harness h11_cohort), MDY as reference"
   }
 }

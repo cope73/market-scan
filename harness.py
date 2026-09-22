@@ -29,6 +29,12 @@ def all_tickers():
     for s in SLEEVES:
         t.update(U[s]["tickers"])
     t.update(U["H1"]["leaders"])
+    cal = os.path.join(DATA, "earnings.csv")
+    if os.path.exists(cal):
+        e = pd.read_csv(cal, parse_dates=["earnings_date"])
+        today = pd.Timestamp(dt.date.today())
+        win = e[(e.earnings_date >= today - pd.Timedelta(days=15)) & (e.earnings_date <= today + pd.Timedelta(days=10))]
+        t.update(win.ticker.tolist())
     return sorted(t)
 
 
@@ -109,8 +115,14 @@ def ret_between(close, t, start, end):
     return float(s.iloc[-1] / s.iloc[0] - 1)
 
 
-def control_return(sleeve, start, end, close=None):
-    tick = U[sleeve]["tickers"]
+def h11_cohort(report_date, days=5):
+    e = pd.read_csv(os.path.join(DATA, "earnings.csv"), parse_dates=["earnings_date"])
+    rd = pd.Timestamp(report_date)
+    return e[(e.earnings_date >= rd - pd.Timedelta(days=days)) & (e.earnings_date <= rd + pd.Timedelta(days=days))].ticker.tolist()
+
+
+def control_return(sleeve, start, end, close=None, cohort=None):
+    tick = cohort if cohort else (U[sleeve]["tickers"] if sleeve in U and "tickers" in U[sleeve] else [])
     if close is None:
         close, _ = history(tick + ["SPY"], "6mo")
     rets = [ret_between(close, t, start, end) for t in tick if t in close.columns]
