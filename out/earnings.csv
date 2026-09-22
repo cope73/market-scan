@@ -1,0 +1,384 @@
+ticker,earnings_date,name
+AA,2026-10-15,Alcoa
+AAL,2026-10-22,American Airlines Group
+ACI,2026-10-13,Albertsons
+ACM,2026-11-17,AECOM
+ADC,2026-10-20,Agree Realty
+AEIS,2026-11-03,Advanced Energy
+AFG,2026-11-03,American Financial Group
+AGCO,2026-10-30,AGCO
+AHR,2026-11-05,American Healthcare REIT
+AIT,2026-10-27,Applied Industrial Technologies
+ALGM,2026-10-29,Allegro MicroSystems
+ALK,2026-10-22,Alaska Air Group
+ALLY,2026-10-20,Ally Financial
+ALSN,2026-10-29,Allison Transmission
+ALV,2026-10-23,Autoliv
+AM,2026-10-28,Antero Midstream
+AMG,2026-11-02,Affiliated Managers Group
+AMH,2026-10-28,American Homes 4 Rent
+AMKR,2026-10-26,Amkor Technology
+AN,2026-10-29,AutoNation
+ANF,2026-11-25,Abercrombie & Fitch
+APG,2026-10-29,APi Group
+AR,2026-10-28,Antero Resources
+ARMK,2026-11-24,Aramark
+ARW,2026-10-29,Arrow Electronics
+ARWR,2026-11-24,Arrowhead Pharmaceuticals
+ASB,2026-10-22,Associated Bank
+ASH,2026-11-03,Ashland Global
+ATI,2026-10-27,ATI Inc.
+ATR,2026-10-29,AptarGroup
+AVAV,2026-12-02,AeroVironment
+AVNT,2026-11-09,Avient
+AVT,2026-10-28,Avnet
+AVTR,2026-10-28,Avantor
+AXTA,2026-10-28,Axalta
+AYI,2026-10-01,Acuity Brands
+BAH,2026-10-23,Booz Allen Hamilton
+BBWI,2026-11-19,"Bath & Body Works, Inc."
+BC,2026-10-22,Brunswick
+BCO,2026-11-04,Brink's
+BDC,2026-10-29,Belden Inc.
+BHF,2026-11-05,Brighthouse Financial
+BILL,2026-11-05,Bill Holdings
+BIO,2026-10-29,Bio-Rad Laboratories
+BJ,2026-11-20,BJ's Wholesale Club
+BKH,2026-11-04,Black Hills Corporation
+BMRN,2026-10-26,BioMarin Pharmaceutical
+BRKR,2026-11-03,Bruker
+BROS,2026-11-04,Dutch Bros Inc.
+BRX,2026-10-26,Brixmor Property Group
+BSY,2026-11-04,Bentley Systems
+BTSG,2026-10-30,BrightSpring Health Services
+BURL,2026-11-27,Burlington Stores
+BWA,2026-10-29,BorgWarner
+BYD,2026-10-22,Boyd Gaming
+CACI,2026-10-21,CACI International
+CAR,2026-10-27,Avis Budget Group
+CART,2026-11-09,Maplebear Inc.
+CAVA,2026-11-10,Cava Group
+CBSH,2026-10-15,Commerce Bancshares
+CBT,2026-11-02,Cabot Corp
+CCK,2026-10-19,Crown Holdings
+CDE,2026-10-28,Coeur Mining
+CDP,2026-10-29,COPT Defense Properties
+CELH,2026-11-09,Celsius Holdings
+CFR,2026-10-29,Frost Bank
+CG,2026-10-29,Carlyle Group (The)
+CGNX,2026-10-28,Cognex
+CHDN,2026-10-28,Churchill Downs Inc.
+CHE,2026-10-27,Chemed Corp.
+CHH,2026-11-04,Choice Hotels
+CHRD,2026-11-03,Chord Energy
+CHWY,2026-12-09,Chewy
+CLF,2026-10-19,Cleveland-Cliffs
+CLH,2026-11-04,Clean Harbors
+CMC,2026-10-15,Commercial Metals
+CNH,2026-11-09,CNH Industrial
+CNM,2026-12-08,Core & Main
+CNO,2026-11-02,CNO Financial Group
+CNX,2026-10-29,CNX Resources
+COKE,2026-10-28,Coca-Cola Consolidated
+COLB,2026-10-29,Columbia Banking System
+COLM,2026-10-29,Columbia Sportswear
+CPRI,2026-11-03,Capri Holdings
+CR,2026-10-26,Crane
+CRBG,2026-11-02,Corebridge Financial
+CROX,2026-10-29,Crocs
+CRS,2026-10-22,Carpenter Technology
+CRUS,2026-11-03,Cirrus Logic
+CSL,2026-10-28,Carlisle Companies
+CTRE,2026-11-09,CareTrust REIT
+CUBE,2026-10-29,CubeSmart
+CUZ,2026-10-29,Cousins Properties
+CVLT,2026-10-27,CommVault Systems
+CXT,2026-11-04,Crane NXT
+CYTK,2026-11-05,Cytokinetics
+DAR,2026-10-29,Darling Ingredients
+DBX,2026-11-05,Dropbox
+DCI,2026-08-26,Donaldson Company
+DINO,2026-10-29,HF Sinclair
+DKS,2026-11-24,Dick's Sporting Goods
+DLB,2026-11-17,Dolby
+DOCN,2026-11-04,DigitalOcean
+DOCS,2026-11-05,Doximity
+DOCU,2026-12-03,Docusign
+DT,2026-11-04,Dynatrace
+DTM,2026-10-29,DT Midstream
+DUOL,2026-11-04,Duolingo
+DY,2026-11-25,Dycom Industries
+EEFT,2026-10-21,Euronet Worldwide
+EGP,2026-10-22,EastGroup Properties
+EHC,2026-10-28,Encompass Health
+ELAN,2026-11-06,Elanco
+ELF,2026-11-04,e.l.f. Beauty
+ELS,2026-10-21,Equity Lifestyle Properties
+ENS,2026-11-04,EnerSys
+ENSG,2026-11-03,Ensign Group
+ENTG,2026-11-04,Entegris
+EPR,2026-10-28,EPR Properties
+EQH,2026-11-03,Equitable Holdings
+ESAB,2026-10-29,ESAB
+EVR,2026-10-28,Evercore
+EWBC,2026-10-20,East West Bancorp
+EXEL,2026-10-27,Exelixis
+EXLS,2026-10-27,EXL Service
+EXP,2026-10-29,Eagle Materials
+EXPO,2026-10-29,"Exponent, Inc."
+FAF,2026-10-21,First American Financial Corporation
+FBIN,2026-11-12,Fortune Brands Innovations
+FCFS,2026-10-22,FirstCash
+FCN,2026-10-29,FTI Consulting
+FFIN,2026-10-22,First Financial Bankshares
+FHI,2026-10-29,Federated Hermes
+FHN,2026-10-14,First Horizon
+FIVE,2026-12-02,Five Below
+FLG,2026-10-23,Flagstar Bank
+FLS,2026-10-27,Flowserve
+FNB,2026-10-15,FNB Corporation
+FND,2026-10-28,Floor & Decor
+FNF,2026-11-05,Fidelity National Financial
+FOUR,2026-11-05,Shift4
+FR,2026-10-21,First Industrial Realty Trust
+FTI,2026-10-29,TechnipFMC
+G,2026-11-05,Genpact
+GAP,2026-11-19,Gap Inc.
+GATX,2026-10-20,GATX
+GBCI,2026-10-15,Glacier Bancorp
+GEF,2026-10-28,"Greif, Inc."
+GGG,2026-10-21,Graco Inc.
+GHC,2026-10-28,Graham Holdings
+GLPI,2026-10-29,Gaming and Leisure Properties
+GME,2026-12-08,GameStop
+GMED,2026-11-05,Globus Medical
+GNTX,2026-10-23,Gentex
+GPK,2026-11-09,Graphic Packaging
+GWRE,2026-12-03,Guidewire Software
+GXO,2026-11-03,GXO Logistics
+H,2026-10-29,Hyatt
+HAE,2026-11-05,Haemonetics
+HALO,2026-11-02,Halozyme
+HGV,2026-10-29,Hilton Grand Vacations
+HIMS,2026-11-09,Hims & Hers Health
+HL,2026-11-05,Hecla Mining
+HLI,2026-10-29,Houlihan Lokey
+HLNE,2026-11-03,Hamilton Lane
+HOG,2026-11-04,Harley-Davidson
+HOMB,2026-10-14,Home BancShares
+HQY,2026-08-27,HealthEquity
+HR,2026-10-29,Healthcare Realty Trust
+HRB,2026-11-05,H&R Block
+HWC,2026-10-13,Hancock Whitney
+HXL,2026-10-21,Hexcel
+IBOC,2026-11-05,Intl Bancshares Corp
+IDA,2026-10-29,Idacorp
+IDCC,2026-10-29,InterDigital
+ILMN,2026-10-29,"Illumina, Inc."
+INGR,2026-11-03,Ingredion
+IPGP,2026-11-03,IPG Photonics
+IRT,2026-10-28,Independence Realty Trust
+ITT,2026-10-27,ITT Inc.
+JAZZ,2026-11-04,Jazz Pharmaceuticals
+JEF,2026-09-28,Jefferies
+JLL,2026-11-04,Jones Lang LaSalle
+KBH,2026-09-22,KB Home
+KBR,2026-10-22,"KBR, Inc."
+KD,2026-11-03,Kyndryl
+KEX,2026-10-29,Kirby Corporation
+KNF,2026-11-03,Knife River Corporation
+KNSL,2026-10-22,Kinsale Capital Group
+KNX,2026-10-21,Knight-Swift
+KRC,2026-10-26,Kilroy Realty Corp
+KRG,2026-11-04,Kite Realty Group Trust
+KRYS,2026-11-02,Krystal Biotech
+KTOS,2026-11-03,Kratos Defense & Security Solutions
+LAD,2026-10-21,Lithia Motors
+LAMR,2026-11-05,Lamar Advertising Company
+LEA,2026-10-22,Lear
+LECO,2026-10-29,Lincoln Electric
+LFUS,2026-10-28,Littelfuse
+LIVN,2026-11-04,LivaNova
+LOPE,2026-11-04,Grand Canyon Education
+LPX,2026-11-04,Louisiana-Pacific
+LSCC,2026-11-02,Lattice Semiconductor
+LSTR,2026-10-27,Landstar System
+M,2026-12-02,Macy's
+MANH,2026-10-27,Manhattan Associates
+MAT,2026-10-27,Mattel
+MEDP,2026-10-19,Medpace
+MIDD,2026-11-05,Middleby
+MKSI,2026-11-04,MKS Instruments
+MLI,2026-10-20,Mueller Industries
+MMS,2026-11-19,Maximus Inc.
+MOG-A,2026-11-20,Moog Inc.
+MOH,2026-10-21,Molina Healthcare
+MORN,2026-10-28,"Morningstar, Inc."
+MP,2026-11-05,MP Materials
+MSA,2026-10-27,MSA Safety
+MSM,2026-10-22,MSC Industrial Direct
+MTDR,2026-10-27,Matador Resources
+MTG,2026-10-28,MGIC Investment Corporation
+MTN,2026-09-28,Vail Resorts
+MTSI,2026-11-05,MACOM Technology Solutions
+MUR,2026-11-04,Murphy Oil
+MUSA,2026-10-28,Murphy USA
+MZTI,2026-11-04,The Marzetti Company
+NBIX,2026-10-28,Neurocrine Biosciences
+NEU,2026-11-05,NewMarket Corporation
+NFG,2026-11-04,National Fuel Gas
+NJR,2026-11-16,New Jersey Resources
+NLY,2026-10-21,Annaly Capital Management
+NNN,2026-11-03,NNN Reit
+NOV,2026-10-27,NOV Inc.
+NOVT,2026-11-03,Novanta
+NTNX,2026-11-25,Nutanix
+NVST,2026-10-28,Envista Holdings
+NWE,2026-10-28,NorthWestern Energy
+NXST,2026-11-05,Nexstar Media Group
+NXT,2026-10-28,Nextpower
+NYT,2026-11-04,New York Times Company
+OC,2026-11-04,Owens Corning
+OGE,2026-10-28,OGE Energy
+OGS,2026-11-02,One Gas
+OHI,2026-11-03,Omega Healthcare Investors
+OKTA,2026-12-01,"Okta, Inc."
+OLED,2026-11-05,Universal Display
+OLN,2026-10-29,Olin Corporation
+ONB,2026-10-21,Old National Bank
+OPCH,2026-10-29,Option Care Health
+ORA,2026-11-04,Ormat Technologies
+ORI,2026-10-22,Old Republic International
+OSK,2026-10-28,Oshkosh
+OVV,2026-11-04,Ovintiv
+OZK,2026-10-15,Bank OZK
+P,2026-08-26,Everpure
+PAG,2026-10-28,Penske Automotive Group
+PATH,2026-12-02,UiPath
+PB,2026-11-04,Prosperity Bancshares
+PBF,2026-10-29,PBF Energy
+PCTY,2026-11-03,Paylocity
+PEGA,2026-10-20,Pegasystems
+PEN,2026-11-04,"Penumbra, Inc."
+PFGC,2026-11-04,Performance Food Group
+PII,2026-10-26,Polaris
+PINS,2026-11-09,Pinterest
+PK,2026-11-04,Park Hotels & Resorts
+PNFP,2026-10-14,Pinnacle Financial Partners
+POR,2026-10-30,Portland General Electric
+POST,2026-11-19,Post Holdings
+PPC,2026-10-28,Pilgrim's Pride
+PR,2026-11-04,Permian Resources
+PRI,2026-11-04,Primerica
+PSN,2026-11-04,Parsons Corporation
+PVH,2026-12-02,PVH Corp.
+QLYS,2026-11-03,Qualys
+R,2026-10-22,Ryder
+RBA,2026-11-05,RB Global
+RBC,2026-10-30,RBC Bearings
+REXR,2026-10-14,Rexford Industrial Realty
+RGA,2026-10-29,Reinsurance Group of America
+RGEN,2026-11-03,Repligen
+RGLD,2026-11-04,Royal Gold
+RH,2026-12-10,RH
+RMBS,2026-10-26,Rambus
+RNR,2026-11-03,RenaissanceRe
+ROIV,2026-11-09,Roivant Sciences
+ROKU,2026-11-05,"Roku, Inc."
+RPM,2026-10-06,RPM International
+RRC,2026-10-27,Range Resources
+RRX,2026-10-28,Regal Rexnord
+RS,2026-10-21,"Reliance, Inc."
+RYAN,2026-10-29,Ryan Specialty
+RYN,2026-11-04,Rayonier
+SAIA,2026-10-29,Saia
+SAIC,2026-08-31,Science Applications Intl Corp
+SAM,2026-10-29,Boston Beer Company
+SANM,2026-11-02,Sanmina Corporation
+SARO,2026-11-10,StandardAero
+SBRA,2026-11-04,Sabra Health Care REIT
+SCI,2026-10-28,Service Corp Intl
+SEIC,2026-10-21,SEI Investments Company
+SF,2026-10-21,Stifel
+SFM,2026-10-28,Sprouts Farmers Market
+SGI,2026-11-05,Somnigroup International
+SHC,2026-11-03,Sotera Health
+SIGI,2026-10-21,Selective Insurance Group
+SIRI,2026-11-05,SiriusXM
+SITM,2026-11-04,SiTime
+SLAB,2026-11-03,Silicon Labs
+SLGN,2026-10-28,Silgan Holdings
+SLM,2026-10-22,SLM Corp
+SMG,2026-11-04,Scotts Miracle-Gro Company
+SMTC,2026-11-23,Semtech
+SN,2026-11-05,SharkNinja
+SNX,2026-09-24,TD Synnex
+SOLS,2026-10-29,Solstice Advanced Materials
+SON,2026-10-21,Sonoco
+SPXC,2026-10-28,SPX Technologies
+SR,2026-11-13,Spire
+SSB,2026-10-21,South State Bank
+SSD,2026-10-26,Simpson Manufacturing
+ST,2026-10-27,Sensata Technologies
+STAG,2026-10-28,STAG Industrial
+STRL,2026-11-02,Sterling Infrastructure
+STWD,2026-11-09,Starwood Property Trust
+SUI,2026-10-28,Sun Communities
+SWX,2026-11-04,Southwest Gas Corp
+SYNA,2026-11-05,Synaptics
+TCBI,2026-10-21,Texas Capital Bancshares
+TEX,2026-10-29,Terex
+THC,2026-10-27,Tenet Health
+THG,2026-10-28,Hanover Insurance
+THO,2026-09-22,Thor Industries
+TKR,2026-10-28,Timken
+TNL,2026-10-21,Travel + Leisure Co.
+TOL,2026-08-18,Toll Brothers
+TOST,2026-11-03,"Toast, Inc."
+TREX,2026-11-04,Trex
+TRU,2026-10-22,TransUnion
+TTC,2026-09-03,Toro
+TTEK,2026-11-11,Tetra Tech
+TTMI,2026-11-04,TTM Technologies
+TWLO,2026-10-29,Twilio
+TXNM,2026-10-30,TXNM Energy
+TXRH,2026-11-05,Texas Roadhouse
+UBSI,2026-10-22,United Bankshares
+UFPI,2026-10-26,UFP Industries
+UGI,2026-11-18,UGI Corp
+ULS,2026-11-03,UL Solutions
+UMBF,2026-10-27,UMB Financial Corp.
+UNM,2026-11-03,Unum
+USFD,2026-11-05,US Foods
+UTHR,2026-10-28,United Therapeutics
+VAL,2026-10-28,Valaris
+VC,2026-10-22,Visteon
+VFC,2026-10-26,VF Corporation
+VIAV,2026-10-28,Viavi Solutions
+VICR,2026-10-20,Vicor Corporation
+VLY,2026-10-29,Valley Bank
+VMI,2026-10-20,Valmont Industries
+VNO,2026-11-02,Vornado Realty Trust
+VNOM,2026-11-02,Viper Energy
+VNT,2026-10-29,Vontier
+VOYA,2026-11-03,Voya Financial
+VVV,2026-11-18,Valvoline
+WAL,2026-10-21,Western Alliance Bancorporation
+WCC,2026-10-29,WESCO International
+WEX,2026-10-28,WEX Inc.
+WFRD,2026-10-20,Weatherford International
+WH,2026-10-21,Wyndham Hotels & Resorts
+WHR,2026-10-28,Whirlpool Corporation
+WLK,2026-10-29,Westlake Corporation
+WMG,2026-11-19,Warner Music Group
+WMS,2026-11-05,Advanced Drainage Systems
+WPC,2026-10-27,W. P. Carey
+WSO,2026-10-28,Watsco
+WTFC,2026-10-19,Wintrust Financial
+WTRG,2026-11-04,Essential Utilities
+WTS,2026-10-28,Watts Water Technologies
+WWD,2026-11-23,"Woodward, Inc."
+XPO,2026-10-29,"XPO, Inc."
+XRAY,2026-11-05,Dentsply Sirona
+YETI,2026-11-05,Yeti Holdings
+ZION,2026-10-19,Zions Bancorporation
