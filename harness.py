@@ -8,6 +8,7 @@ Commands:
   control SLEEVE START END
                          Equal-weight untimed control-basket return for SLEEVE between two dates (close to close).
   score                  Compute SPY and control returns for every closed trade in data/journal.csv and print the sleeve scorecard.
+  intraday               Midday snapshot: last price and move vs prior close for every tracked ticker (out/intraday.txt, data/intraday.csv).
   calendar               Refresh the H11 earnings calendar cache (data/earnings.csv) for the S&P 400 pool. Slow; run nightly.
 
 All output is plain text or CSV so a Claude session can read it and write the brief and the Notion records.
@@ -171,6 +172,40 @@ def cmd_scan():
         print("\nH11: no earnings cache yet. Run: python3 harness.py calendar")
 
 
+def cmd_intraday():
+    tick = all_tickers()
+    close, _ = history(tick, "5d")
+    prev = close.iloc[-1]
+    prev_day = close.index[-1].date()
+    caps = fast_caps(tick)
+    rows = []
+    for t in tick:
+        px = caps.get(t, (float("nan"), float("nan")))[1]
+        if px != px or t not in prev or prev[t] != prev[t]:
+            continue
+        rows.append(dict(ticker=t, last=round(px, 2), prev_close=round(float(prev[t]), 2), chg=px / float(prev[t]) - 1))
+    df = pd.DataFrame(rows).sort_values("chg", ascending=False)
+    df["asof_utc"] = dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    df.to_csv(os.path.join(DATA, "intraday.csv"), index=False)
+    print(f"=== INTRADAY as of {df.asof_utc.iloc[0]} (prev close {prev_day}) ===\n")
+    print("Leaders (H1 midday trigger is a move of %.1f%% or more vs prior close):" % U["H1"]["leader_move_pct"])
+    for t in U["H1"]["leaders"]:
+        r = df[df.ticker == t]
+        if len(r):
+            c = float(r.chg.iloc[0]); flag = "  <-- TRIGGER" if abs(c) * 100 >= U["H1"]["leader_move_pct"] else ""
+            print(f"  {t:6s} {c:+.2%}  last {float(r.last.iloc[0]):.2f}{flag}")
+    for s_ in ["H1", "H3"]:
+        print(f"\n{s_} {U[s_]['name']} (move vs prior close, last price):")
+        sub = df[df.ticker.isin(U[s_]["tickers"])]
+        for _, r in sub.iterrows():
+            print(f"  {r.ticker:6s} {r.chg:+.2%}  {r.last:.2f}")
+        print(f"  equal-weight basket: {sub.chg.mean():+.2%}")
+    print("\nReferences:")
+    for t in U["references"]:
+        r = df[df.ticker == t]
+        if len(r): print(f"  {t:5s} {float(r.chg.iloc[0]):+.2%}")
+
+
 def cmd_calendar():
     src = U["H11"]["pool_source"]
     pool_path = os.path.join(DATA, f"pool_{src}.csv")
@@ -252,4 +287,5 @@ if __name__ == "__main__":
     elif c == "control": cmd_control(a[1], a[2], a[3])
     elif c == "score": cmd_score()
     elif c == "calendar": cmd_calendar()
+    elif c == "intraday": cmd_intraday()
     else: print(__doc__)
