@@ -13,95 +13,95 @@ Leaders (H1 trigger is a move of 3.0% or more):
   CRWV   +nan%
 
 H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
-  ALAB   +nan%    1058M
-  CRDO   +nan%    1504M
-  MPWR   +nan%     778M
-  ONTO   +nan%     236M
-  CIEN   +nan%     915M
-  COHR   +nan%    1715M
-  LITE   +nan%    3883M
-  AAOI   +nan%     661M
-  FN     +nan%     317M
-  VRT    +nan%    1333M
-  MOD    +nan%     216M
-  NVT    +nan%     389M
-  POWL   +nan%      97M
-  AAON   +nan%      79M
-  CLS    +nan%     646M
-  SMCI   +nan%    1424M
-  DLR    +nan%     382M
-  APLD   +nan%     402M
-  IREN   +nan%    1649M
-  CORZ   +nan%     189M
-  NBIS   +nan%    3128M
-  WULF   +nan%     436M
+  ALAB   +nan%    1073M
+  CRDO   +nan%    1524M
+  MPWR   +nan%     787M
+  ONTO   +nan%     239M
+  CIEN   +nan%     925M
+  COHR   +nan%    1744M
+  LITE   +nan%    3932M
+  AAOI   +nan%     671M
+  FN     +nan%     320M
+  VRT    +nan%    1343M
+  MOD    +nan%     219M
+  NVT    +nan%     391M
+  POWL   +nan%      98M
+  AAON   +nan%      80M
+  CLS    +nan%     658M
+  SMCI   +nan%    1450M
+  DLR    +nan%     384M
+  APLD   +nan%     407M
+  IREN   +nan%    1671M
+  CORZ   +nan%     192M
+  NBIS   +nan%    3162M
+  WULF   +nan%     442M
   equal-weight basket: +nan%
 
 H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vol):
   ESE    +nan%      60M
-  FSS    +nan%      46M
+  FSS    +nan%      47M
   GFF    +nan%      30M
-  ALG    +nan%      29M
+  ALG    +nan%      30M
   TRN    +nan%      15M
   GBX    +nan%      16M
-  BOOT   +nan%      89M
-  SHAK   +nan%      73M
-  WING   +nan%     131M
-  OLLI   +nan%     141M
-  PLNT   +nan%      88M
-  ACAD   +nan%      41M
+  BOOT   +nan%      90M
+  SHAK   +nan%      74M
+  WING   +nan%     133M
+  OLLI   +nan%     143M
+  PLNT   +nan%      91M
+  ACAD   +nan%      42M
   ACHC   +nan%      39M
-  LNTH   +nan%      96M
-  OMCL   +nan%      19M
+  LNTH   +nan%      97M
+  OMCL   +nan%      20M
   PRCT   +nan%      23M
   APPF   +nan%      67M
-  BRZE   +nan%      78M
-  KVYO   +nan%     110M
+  BRZE   +nan%      79M
+  KVYO   +nan%     112M
   ALRM   +nan%      23M
-  PCOR   +nan%     137M
+  PCOR   +nan%     138M
   PIPR   +nan%      44M
-  VIRT   +nan%      55M
+  VIRT   +nan%      56M
   ESNT   +nan%      47M
   RLI    +nan%      35M
   SKWD   +nan%      21M
   equal-weight basket: +nan%
 
 H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar vol):
-  CCJ    +nan%     277M
-  LEU    +nan%     127M
+  CCJ    +nan%     280M
+  LEU    +nan%     129M
   UEC    +nan%      97M
-  UUUU   +nan%      87M
+  UUUU   +nan%      89M
   DNN    +nan%      76M
-  NXE    +nan%      40M
+  NXE    +nan%      41M
   URG    +nan%       8M
-  BWXT   +nan%     168M
-  CW     +nan%     223M
+  BWXT   +nan%     169M
+  CW     +nan%     226M
   MIR    +nan%      57M
-  OKLO   +nan%     428M
-  SMR    +nan%     351M
+  OKLO   +nan%     432M
+  SMR    +nan%     355M
   NNE    +nan%      32M
   FLR    +nan%     119M
-  CEG    +nan%     758M
-  VST    +nan%     596M
-  TLN    +nan%     216M
-  PEG    +nan%     222M
-  ETR    +nan%     281M
-  D      +nan%     293M
-  SO     +nan%     521M
-  PNW    +nan%      90M
-  AEP    +nan%     436M
-  NRG    +nan%     288M
-  GEV    +nan%    2038M
-  PWR    +nan%     538M
-  MYRG   +nan%      79M
-  POWL   +nan%      97M
-  HUBB   -0.48%     206M
-  PRIM   +nan%      91M
-  MTZ    +nan%     350M
+  CEG    +nan%     765M
+  VST    +nan%     603M
+  TLN    +nan%     218M
+  PEG    +nan%     224M
+  ETR    +nan%     283M
+  D      +nan%     296M
+  SO     +nan%     527M
+  PNW    +nan%      91M
+  AEP    +nan%     440M
+  NRG    +nan%     290M
+  GEV    +nan%    2065M
+  PWR    +nan%     543M
+  MYRG   +nan%      80M
+  POWL   +nan%      98M
+  HUBB   +1.36%     207M
+  PRIM   +nan%      92M
+  MTZ    +nan%     353M
   AZZ    +nan%      31M
   IESC   +nan%      89M
-  AGX    +nan%     177M
-  equal-weight basket: -0.48%
+  AGX    +nan%     178M
+  equal-weight basket: +1.36%
 
 References:
   SPY   +nan%
