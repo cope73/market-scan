@@ -180,10 +180,11 @@ def cmd_intraday():
     completed = close[[d.date() < today_et for d in close.index]]
     prev = completed.iloc[-1]
     prev_day = completed.index[-1].date()
-    caps = fast_caps(tick)
+    intra = yf.download(tick, period="1d", interval="5m", progress=False, threads=True, group_by="column")
+    last = intra["Close"].ffill().iloc[-1] if "Close" in intra else intra.ffill().iloc[-1]
     rows = []
     for t in tick:
-        px = caps.get(t, (float("nan"), float("nan")))[1]
+        px = float(last.get(t, float("nan")))
         if px != px or t not in prev or prev[t] != prev[t]:
             continue
         rows.append(dict(ticker=t, last=round(px, 2), prev_close=round(float(prev[t]), 2), chg=px / float(prev[t]) - 1))
