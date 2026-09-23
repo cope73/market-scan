@@ -1,3 +1,1 @@
-/home/runner/work/market-scan/market-scan/harness.py:98: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
-  long = close.reset_index().melt(id_vars=close.index.name or "Date", var_name="ticker", value_name="close").dropna()
-prices.csv now has 2121 rows through 2026-09-22
+prices.csv now has 2220 rows through 2026-09-23

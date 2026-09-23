@@ -1,0 +1,81 @@
+=== INTRADAY as of 2026-09-23T13:49:15Z (prev close 2026-09-22) ===
+
+Leaders (H1 midday trigger is a move of 3.0% or more vs prior close):
+  NVDA   +0.31%  last 228.10
+  MSFT   +0.56%  last 504.40
+  META   +1.85%  last 754.94
+  GOOGL  -2.55%  last 345.93
+  AMZN   -2.74%  last 251.37
+  ORCL   -1.26%  last 146.70
+  AVGO   -1.13%  last 358.58
+  AMD    +0.30%  last 617.34
+  TSM    +0.74%  last 448.42
+  CRWV   +2.41%  last 87.49
+
+H1 Narrative propagation lag (move vs prior close, last price):
+  ALAB   +5.44%  359.29
+  MPWR   +4.70%  1337.69
+  CLS    +3.34%  355.89
+  AAON   +3.27%  78.90
+  CRDO   +2.57%  192.09
+  CORZ   +2.34%  18.79
+  IREN   +2.23%  48.28
+  POWL   +1.64%  190.63
+  SMCI   +1.43%  41.79
+  NVT    +0.95%  160.95
+  APLD   +0.18%  28.24
+  NBIS   +0.02%  232.86
+  ONTO   -0.03%  275.89
+  VRT    -0.59%  249.38
+  FN     -0.81%  398.32
+  DLR    -1.33%  183.85
+  LITE   -1.58%  939.40
+  WULF   -1.98%  17.10
+  CIEN   -2.65%  356.28
+  MOD    -3.68%  190.34
+  AAOI   -5.12%  103.11
+  COHR   -5.70%  303.20
+  equal-weight basket: +0.21%
+
+H3 Domain catalyst: nuclear, utilities, grid (move vs prior close, last price):
+  POWL   +1.64%  190.63
+  AZZ    +1.42%  135.53
+  MIR    +0.25%  16.25
+  MYRG   +0.08%  288.69
+  IESC   -0.23%  320.94
+  GEV    -0.25%  943.84
+  HUBB   -0.47%  456.65
+  AEP    -0.72%  119.17
+  PWR    -0.78%  637.61
+  NNE    -0.88%  16.95
+  CEG    -0.94%  259.64
+  CCJ    -1.30%  92.02
+  SO     -1.32%  84.33
+  OKLO   -1.39%  39.62
+  NXE    -1.43%  9.66
+  LEU    -1.53%  152.48
+  DNN    -1.56%  2.85
+  VST    -1.57%  138.57
+  UEC    -1.63%  9.92
+  PEG    -1.71%  68.12
+  PNW    -1.71%  91.71
+  ETR    -1.78%  99.78
+  D      -1.81%  61.68
+  SMR    -1.93%  8.62
+  FLR    -1.97%  53.66
+  NRG    -2.36%  100.84
+  MTZ    -2.75%  216.77
+  BWXT   -2.86%  143.25
+  TLN    -3.03%  290.89
+  URG    -3.25%  1.19
+  PRIM   -3.47%  74.24
+  CW     -3.82%  546.32
+  AGX    -4.40%  363.39
+  UUUU   -4.99%  11.69
+  equal-weight basket: -1.60%
+
+References:
+  SPY   -0.32%
+  XLU   -1.60%
+  IWM   -0.61%
+  MDY   -0.26%
