@@ -174,9 +174,12 @@ def cmd_scan():
 
 def cmd_intraday():
     tick = all_tickers()
-    close, _ = history(tick, "5d")
-    prev = close.iloc[-1]
-    prev_day = close.index[-1].date()
+    close, _ = history(tick, "7d")
+    import zoneinfo
+    today_et = dt.datetime.now(zoneinfo.ZoneInfo("America/New_York")).date()
+    completed = close[[d.date() < today_et for d in close.index]]
+    prev = completed.iloc[-1]
+    prev_day = completed.index[-1].date()
     caps = fast_caps(tick)
     rows = []
     for t in tick:
@@ -185,7 +188,7 @@ def cmd_intraday():
             continue
         rows.append(dict(ticker=t, last=round(px, 2), prev_close=round(float(prev[t]), 2), chg=px / float(prev[t]) - 1))
     df = pd.DataFrame(rows).sort_values("chg", ascending=False)
-    df["asof_utc"] = dt.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    df["asof_utc"] = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     df.to_csv(os.path.join(DATA, "intraday.csv"), index=False)
     print(f"=== INTRADAY as of {df.asof_utc.iloc[0]} (prev close {prev_day}) ===\n")
     print("Leaders (H1 midday trigger is a move of %.1f%% or more vs prior close):" % U["H1"]["leader_move_pct"])
