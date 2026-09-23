@@ -1,81 +1,81 @@
-=== INTRADAY as of 2026-09-23T15:27:09Z (prev close 2026-09-22) ===
+=== INTRADAY as of 2026-09-23T19:51:13Z (prev close 2026-09-22) ===
 
 Leaders (H1 midday trigger is a move of 3.0% or more vs prior close):
-  NVDA   -0.75%  last 225.67
-  MSFT   -0.58%  last 498.68
-  META   +2.10%  last 756.79
-  GOOGL  -3.90%  last 341.14  <-- TRIGGER
-  AMZN   -3.08%  last 250.49  <-- TRIGGER
-  ORCL   -0.74%  last 147.46
-  AVGO   -1.65%  last 356.66
-  AMD    -0.13%  last 614.74
-  TSM    +1.09%  last 450.00
-  CRWV   +4.86%  last 89.58  <-- TRIGGER
+  NVDA   -1.68%  last 225.01
+  MSFT   +0.25%  last 499.24
+  META   +1.15%  last 745.07
+  GOOGL  -3.75%  last 337.98  <-- TRIGGER
+  AMZN   -2.46%  last 248.72
+  ORCL   -3.28%  last 144.31  <-- TRIGGER
+  AVGO   -2.66%  last 354.83
+  AMD    -1.50%  last 614.40
+  TSM    -1.05%  last 447.24
+  CRWV   +1.12%  last 87.73
 
 H1 Narrative propagation lag (move vs prior close, last price):
-  AAON   +6.48%  81.35
-  CLS    +6.45%  366.60
-  ALAB   +5.56%  359.67
-  MPWR   +3.98%  1328.57
-  CRDO   +3.94%  194.65
-  POWL   +3.31%  193.76
-  IREN   +3.20%  48.74
-  NVT    +2.98%  164.19
-  ONTO   +2.65%  283.30
-  CORZ   +1.80%  18.69
-  VRT    +1.10%  253.62
-  SMCI   +1.06%  41.63
-  NBIS   +0.87%  234.82
-  APLD   +0.74%  28.40
-  FN     +0.16%  402.20
-  LITE   -0.19%  952.71
-  CIEN   -0.84%  362.89
-  MOD    -1.30%  195.05
-  DLR    -1.52%  183.49
-  WULF   -1.55%  17.18
-  AAOI   -4.08%  104.24
-  COHR   -5.37%  304.24
-  equal-weight basket: +1.34%
+  AAON   +8.02%  82.53
+  CLS    +5.89%  364.67
+  MPWR   +5.81%  1351.90
+  POWL   +2.92%  193.04
+  ONTO   +2.68%  283.37
+  NVT    +2.43%  163.32
+  CRDO   +0.65%  193.82
+  FN     +0.00%  401.59
+  SMCI   -0.46%  41.35
+  VRT    -0.65%  249.23
+  LITE   -1.06%  935.67
+  ALAB   -1.18%  359.17
+  CORZ   -1.44%  18.09
+  IREN   -1.96%  47.60
+  DLR    -2.36%  181.93
+  MOD    -2.38%  192.91
+  CIEN   -2.48%  356.90
+  COHR   -3.29%  300.18
+  NBIS   -3.77%  227.23
+  APLD   -3.98%  27.41
+  AAOI   -5.47%  101.14
+  WULF   -5.57%  16.36
+  equal-weight basket: -0.35%
 
 H3 Domain catalyst: nuclear, utilities, grid (move vs prior close, last price):
-  AZZ    +3.55%  138.38
-  POWL   +3.31%  193.76
-  MYRG   +3.10%  297.39
-  NNE    +1.70%  17.39
-  HUBB   +1.36%  465.08
-  MIR    +1.20%  16.41
-  SMR    +0.91%  8.87
-  GEV    +0.57%  951.63
-  CEG    +0.39%  263.13
-  IESC   +0.10%  322.02
-  UEC    +0.05%  10.09
-  NXE    -0.15%  9.78
-  CCJ    -0.19%  93.05
-  DNN    -0.52%  2.88
-  TLN    -0.56%  298.28
-  PWR    -0.67%  638.34
-  OKLO   -0.72%  39.89
-  VST    -0.80%  139.66
-  LEU    -0.82%  153.57
-  MTZ    -1.17%  220.30
-  AGX    -1.43%  374.69
-  FLR    -1.52%  53.91
-  AEP    -1.55%  118.17
-  BWXT   -1.81%  144.80
-  PNW    -1.81%  91.62
-  NRG    -1.83%  101.39
-  PRIM   -2.08%  75.31
-  ETR    -2.26%  99.28
-  SO     -2.32%  83.48
-  PEG    -2.38%  67.66
-  D      -2.40%  61.31
-  CW     -2.87%  551.72
-  URG    -3.25%  1.19
-  UUUU   -4.88%  11.70
-  equal-weight basket: -0.64%
+  AZZ    +3.67%  138.54
+  MYRG   +3.01%  297.14
+  POWL   +2.92%  193.04
+  HUBB   +1.53%  465.86
+  CEG    +0.65%  263.81
+  NNE    +0.47%  17.18
+  GEV    +0.34%  949.42
+  MIR    +0.28%  16.25
+  TLN    +0.21%  300.61
+  IESC   -0.63%  319.66
+  AGX    -0.92%  376.64
+  PWR    -1.19%  634.96
+  NXE    -1.23%  9.68
+  AEP    -1.28%  118.49
+  LEU    -1.39%  152.69
+  PNW    -1.71%  91.71
+  VST    -1.76%  137.94
+  SMR    -1.91%  8.72
+  MTZ    -2.21%  217.97
+  CCJ    -2.34%  91.04
+  SO     -2.55%  83.29
+  ETR    -2.66%  98.88
+  D      -2.69%  61.13
+  NRG    -2.85%  100.34
+  FLR    -2.89%  53.16
+  PEG    -3.11%  67.15
+  PRIM   -3.24%  74.42
+  DNN    -3.24%  2.84
+  URG    -3.31%  1.17
+  UEC    -3.53%  9.97
+  OKLO   -3.76%  38.93
+  BWXT   -3.94%  141.65
+  UUUU   -4.00%  11.65
+  CW     -4.39%  543.11
+  equal-weight basket: -1.46%
 
 References:
-  SPY   -0.50%
-  XLU   -1.99%
-  IWM   -0.62%
-  MDY   +0.46%
+  SPY   -0.84%
+  XLU   -2.27%
+  IWM   -1.77%
+  MDY   -0.15%
