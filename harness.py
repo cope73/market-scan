@@ -178,7 +178,7 @@ def cmd_intraday():
     import zoneinfo
     today_et = dt.datetime.now(zoneinfo.ZoneInfo("America/New_York")).date()
     completed = close[[d.date() < today_et for d in close.index]]
-    prev = completed.iloc[-1]
+    prev = completed.ffill().iloc[-1]
     prev_day = completed.index[-1].date()
     intra = yf.download(tick, period="1d", interval="5m", progress=False, threads=True, group_by="column")
     last = intra["Close"].ffill().iloc[-1] if "Close" in intra else intra.ffill().iloc[-1]
