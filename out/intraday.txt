@@ -1,4 +1,4 @@
-=== INTRADAY as of 2026-09-29T21:04:58Z (prev close 2026-09-28) ===
+=== INTRADAY as of 2026-09-30T00:37:06Z (prev close 2026-09-28) ===
 
 Leaders (H1 midday trigger is a move of 3.0% or more vs prior close):
   NVDA   -0.68%  last 227.30
