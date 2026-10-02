@@ -1,115 +1,114 @@
 === SCAN as of close 2026-10-01 ===
 
 Leaders (H1 trigger is a move of 3.0% or more):
-  NVDA   +1.09%
-  MSFT   -0.02%
-  META   +0.10%
-  GOOGL  -1.70%
-  AMZN   -0.37%
-  ORCL   +0.56%
-  AVGO   -2.15%
-  AMD    +0.65%
-  TSM    +0.66%
-  CRWV   +1.66%
+  NVDA   +nan%
+  MSFT   +nan%
+  META   +nan%
+  GOOGL  +nan%
+  AMZN   +nan%
+  ORCL   +nan%
+  AVGO   +nan%
+  AMD    +nan%
+  TSM    +nan%
+  CRWV   +nan%
 
 H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
-  ALAB   +0.13%    1316M
-  CRDO   +7.90%    1601M
-  MPWR   +1.02%     909M
-  ONTO   +2.29%     226M
-  CIEN   +7.77%     986M
-  COHR   +10.90%    1991M
-  LITE   +7.67%    4520M
-  AAOI   +8.12%     748M
-  FN     +6.40%     312M
-  VRT    +1.99%    1346M
-  MOD    +1.07%     252M
-  NVT    +3.37%     312M
-  POWL   +3.32%      96M
-  AAON   -0.58%      99M
-  CLS    +3.23%     813M
-  SMCI   +2.07%    1520M
-  DLR    +0.55%     340M
-  APLD   -0.86%     412M
-  IREN   -0.56%    1588M
-  CORZ   +2.32%     197M
-  NBIS   -1.53%    3551M
-  WULF   +0.74%     454M
-  equal-weight basket: +3.06%
+  ALAB   +nan%    1286M
+  CRDO   +nan%    1751M
+  MPWR   +nan%     901M
+  ONTO   +nan%     226M
+  CIEN   +nan%     988M
+  COHR   +nan%    1866M
+  LITE   +nan%    4250M
+  AAOI   +nan%     709M
+  FN     +nan%     305M
+  VRT    +nan%    1342M
+  MOD    +nan%     250M
+  NVT    +nan%     312M
+  POWL   +nan%      97M
+  AAON   +nan%      98M
+  CLS    +nan%     806M
+  SMCI   +nan%    1526M
+  DLR    +nan%     342M
+  APLD   +nan%     412M
+  IREN   +nan%    1594M
+  CORZ   +nan%     197M
+  NBIS   +nan%    3519M
+  WULF   +nan%     448M
+  equal-weight basket: +nan%
 
 H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vol):
-  ESE    +1.81%      67M
-  FSS    +1.25%      49M
-  GFF    +0.12%      34M
-  ALG    +1.03%      35M
-  TRN    +1.02%      20M
-  GBX    +0.05%      17M
-  BOOT   +0.42%      92M
-  SHAK   +2.57%      91M
-  WING   -0.96%     145M
-  OLLI   +2.64%     146M
-  PLNT   -0.88%     124M
-  ACAD   -1.29%      55M
-  ACHC   -2.07%      40M
-  LNTH   +0.12%     101M
-  OMCL   -1.79%      18M
-  PRCT   -6.59%      27M
-  APPF   +1.86%      59M
-  BRZE   +2.19%      73M
-  KVYO   +2.92%     107M
-  ALRM   +0.72%      26M
-  PCOR   -0.12%     141M
-  PIPR   -0.29%      59M
-  VIRT   +0.83%      66M
-  ESNT   +1.64%      58M
-  RLI    +1.57%      41M
-  SKWD   +3.75%      21M
-  equal-weight basket: +0.48%
+  ESE    +nan%      68M
+  FSS    +nan%      49M
+  GFF    +nan%      34M
+  ALG    +nan%      35M
+  TRN    +nan%      20M
+  GBX    +nan%      18M
+  BOOT   +nan%      92M
+  SHAK   +nan%      90M
+  WING   +nan%     148M
+  OLLI   +nan%     157M
+  PLNT   +nan%     123M
+  ACAD   +nan%      55M
+  ACHC   +nan%      40M
+  LNTH   +nan%     102M
+  OMCL   +nan%      19M
+  PRCT   +nan%      27M
+  APPF   +nan%      61M
+  BRZE   +nan%      72M
+  KVYO   +nan%     110M
+  ALRM   +nan%      26M
+  PCOR   +nan%     142M
+  PIPR   +nan%      60M
+  VIRT   +nan%      65M
+  ESNT   +nan%      56M
+  RLI    +nan%      40M
+  SKWD   +nan%      22M
+  equal-weight basket: +nan%
 
 H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar vol):
-  CCJ    -1.13%     269M
-  LEU    -0.27%     116M
-  UEC    -0.95%      95M
-  UUUU   -2.90%      86M
-  DNN    -1.93%      70M
-  NXE    -2.74%      39M
-  URG    -1.85%       8M
-  BWXT   -0.15%     166M
-  CW     +0.21%     244M
-  MIR    +1.63%      60M
-  OKLO   -2.38%     386M
-  SMR    -1.39%     336M
-  NNE    -0.76%      32M
-  FLR    +3.03%     126M
-  CEG    +1.93%     815M
-  VST    +1.01%     682M
-  TLN    +3.33%     258M
-  PEG    +0.82%     239M
-  ETR    +1.15%     328M
-  D      +0.40%     318M
-  SO     +0.70%     554M
-  PNW    +1.71%     113M
-  AEP    +0.94%     492M
-  NRG    +1.34%     302M
-  GEV    +3.89%    1990M
-  PWR    +3.13%     524M
-  MYRG   +1.87%      72M
-  POWL   +3.32%      96M
+  CCJ    +nan%     262M
+  LEU    +nan%     117M
+  UEC    +nan%      96M
+  UUUU   +nan%      86M
+  DNN    +nan%      72M
+  NXE    +nan%      39M
+  URG    +nan%       8M
+  BWXT   +nan%     164M
+  CW     +nan%     244M
+  MIR    +nan%      60M
+  OKLO   +nan%     385M
+  SMR    +nan%     337M
+  NNE    +nan%      32M
+  FLR    +nan%     125M
+  CEG    +nan%     803M
+  VST    +nan%     683M
+  TLN    +nan%     252M
+  PEG    +nan%     239M
+  ETR    +nan%     328M
+  D      +nan%     320M
+  SO     +nan%     548M
+  PNW    +nan%     107M
+  AEP    +nan%     485M
+  NRG    +nan%     301M
+  GEV    +nan%    1967M
+  PWR    +nan%     519M
+  MYRG   +nan%      75M
+  POWL   +nan%      97M
   HUBB   +2.95%     225M
-  PRIM   +2.32%      99M
-  MTZ    +0.02%     339M
-  AZZ    +0.76%      33M
-  IESC   +2.83%      83M
-  AGX    +0.43%     172M
-  equal-weight basket: +0.68%
+  PRIM   +nan%      99M
+  MTZ    +nan%     345M
+  AZZ    +nan%      33M
+  IESC   +nan%      84M
+  AGX    +nan%     177M
+  equal-weight basket: +2.95%
 
 References:
-  SPY   +0.18%
-  XLU   +0.61%
-  IWM   +0.41%
-  MDY   +1.02%
+  SPY   +nan%
+  XLU   +nan%
+  IWM   +nan%
+  MDY   +nan%
 
-H11 earnings in the next 7 days (2 names, from cache dated 2026-10-01):
+H11 earnings in the next 7 days (1 names, from cache dated 2026-10-02):
 ticker earnings_date              name
-   AYI    2026-10-01     Acuity Brands
    RPM    2026-10-06 RPM International
