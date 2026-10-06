@@ -15,11 +15,11 @@ Leaders (H1 trigger is a move of 3.0% or more):
 H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
   ALAB   +3.43%    1309M
   CRDO   -2.82%    1595M
-  MPWR   +2.79%     947M
+  MPWR   +2.79%     948M
   ONTO   -0.72%     235M
   CIEN   -0.42%     910M
   COHR   -1.01%    2102M
-  LITE   +0.58%    4644M
+  LITE   +0.58%    4648M
   AAOI   +5.17%     803M
   FN     -2.12%     310M
   VRT    +0.57%    1340M
@@ -28,12 +28,12 @@ H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
   POWL   +0.89%      98M
   AAON   +1.30%      95M
   CLS    -1.20%     790M
-  SMCI   -1.14%    1493M
+  SMCI   -1.14%    1494M
   DLR    +0.74%     336M
   APLD   -2.68%     436M
-  IREN   -3.07%    1567M
+  IREN   -3.07%    1568M
   CORZ   +0.91%     199M
-  NBIS   -4.22%    3593M
+  NBIS   -4.22%    3594M
   WULF   -4.52%     456M
   equal-weight basket: -0.29%
 
@@ -50,7 +50,7 @@ H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vo
   OLLI   -1.37%     144M
   PLNT   -0.80%     127M
   ACAD   +0.80%      56M
-  ACHC   +2.89%      42M
+  ACHC   +2.89%      43M
   LNTH   +0.23%     100M
   OMCL   +3.10%      17M
   PRCT   +3.85%      27M
@@ -70,7 +70,7 @@ H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar
   CCJ    +2.69%     270M
   LEU    +1.56%     111M
   UEC    +0.54%      97M
-  UUUU   +0.84%      86M
+  UUUU   +0.84%      87M
   DNN    +2.33%      69M
   NXE    +0.78%      38M
   URG    +0.95%       8M
@@ -81,8 +81,8 @@ H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar
   SMR    -0.90%     330M
   NNE    -0.70%      33M
   FLR    +1.42%     121M
-  CEG    +3.93%     821M
-  VST    +3.48%     782M
+  CEG    +3.93%     822M
+  VST    +3.48%     783M
   TLN    +3.46%     275M
   PEG    +0.90%     258M
   ETR    -0.09%     323M
@@ -91,11 +91,11 @@ H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar
   PNW    +0.04%     123M
   AEP    +0.13%     510M
   NRG    +1.65%     300M
-  GEV    +0.13%    2037M
+  GEV    +0.13%    2038M
   PWR    +1.01%     538M
   MYRG   -0.70%      71M
   POWL   +0.89%      98M
-  HUBB   +1.08%     219M
+  HUBB   +nan%     221M
   PRIM   +1.88%     102M
   MTZ    +1.61%     329M
   AZZ    -0.17%      34M
@@ -109,6 +109,7 @@ References:
   IWM   +0.66%
   MDY   +0.39%
 
-H11 earnings in the next 7 days (1 names, from cache dated 2026-10-05):
+H11 earnings in the next 7 days (2 names, from cache dated 2026-10-06):
 ticker earnings_date              name
    RPM    2026-10-06 RPM International
+   ACI    2026-10-13        Albertsons
