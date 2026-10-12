@@ -1,23 +1,23 @@
 sleeve ticker   price   mcap avg_dollar_vol_20d                  flags
-    H1   ALAB  324.11  56.2B              1478M                     OK
-    H1   CRDO  200.84  37.7B              1677M                     OK
-    H1   MPWR 1319.23  64.8B               947M                     OK
-    H1   ONTO  273.74  13.4B               239M                     OK
-    H1   CIEN  405.01  57.4B              1159M                     OK
-    H1   COHR  288.02  56.7B              2137M                     OK
-    H1   LITE  995.41  90.2B              4806M                     OK
-    H1   AAOI  100.68   8.5B               991M                     OK
+    H1   ALAB  324.11  56.2B              1482M                     OK
+    H1   CRDO  200.84  37.7B              1679M                     OK
+    H1   MPWR 1319.23  64.8B               949M                     OK
+    H1   ONTO  273.74  13.4B               240M                     OK
+    H1   CIEN  405.01  57.4B              1160M                     OK
+    H1   COHR  288.02  56.7B              2143M                     OK
+    H1   LITE  995.41  90.2B              4807M                     OK
+    H1   AAOI  100.68   8.5B               992M                     OK
     H1     FN  456.40  16.4B               371M                     OK
     H1    VRT  239.36  92.2B              1103M                     OK
-    H1    MOD  172.50   9.2B               250M                     OK
+    H1    MOD  172.50   9.2B               252M                     OK
     H1    NVT  162.78  26.3B               300M                     OK
     H1   POWL  185.38   6.8B               102M                     OK
     H1   AAON   84.77   7.0B                90M                     OK
     H1    CLS  347.50  43.8B               728M                     OK
     H1   SMCI   39.98  25.9B              1473M                     OK
     H1    DLR  180.16  66.8B               344M                     OK
-    H1   APLD   23.25   7.0B               543M                     OK
-    H1   IREN   34.80  13.7B              1591M                     OK
+    H1   APLD   23.25   7.0B               544M                     OK
+    H1   IREN   34.80  13.7B              1592M                     OK
     H1   CORZ   15.02   4.8B               191M                     OK
     H1   NBIS  210.06  57.1B              3685M                     OK
     H1   WULF   13.37   6.7B               425M                     OK
@@ -31,7 +31,7 @@ sleeve ticker   price   mcap avg_dollar_vol_20d                  flags
     H2   SHAK   69.34   2.8B                92M                     OK
     H2   WING  126.02   3.4B               145M                     OK
     H2   OLLI   86.44   5.1B               147M                     OK
-    H2   PLNT   47.89   3.6B               129M                     OK
+    H2   PLNT   47.89   3.6B               130M                     OK
     H2   ACAD   19.41   3.3B                55M                     OK
     H2   ACHC   30.08   2.8B                45M                     OK
     H2   LNTH  100.11   6.5B                93M                     OK
@@ -41,14 +41,14 @@ sleeve ticker   price   mcap avg_dollar_vol_20d                  flags
     H2   BRZE   29.06   3.3B                54M                     OK
     H2   KVYO   17.11   5.1B               100M                     OK
     H2   ALRM   55.93   2.7B                26M                     OK
-    H2   PCOR   56.22   8.5B               152M MCAP>MAX,DOLLARVOL>MAX
+    H2   PCOR   56.22   8.5B               153M MCAP>MAX,DOLLARVOL>MAX
     H2   PIPR   64.90   4.6B                61M                     OK
     H2   VIRT   56.77   5.0B                76M                     OK
     H2   ESNT   61.68   5.5B                60M                     OK
     H2    RLI   56.63   5.2B                48M                     OK
     H2   SKWD   59.88   2.7B                21M                     OK
     H3    CCJ   86.12  37.5B               290M                     OK
-    H3    LEU  135.31   2.8B               109M                     OK
+    H3    LEU  135.31   2.8B               110M                     OK
     H3    UEC    8.83   4.4B                97M                     OK
     H3   UUUU    9.66   2.4B                88M                     OK
     H3    DNN    2.37   2.1B                71M                     OK
@@ -63,8 +63,8 @@ sleeve ticker   price   mcap avg_dollar_vol_20d                  flags
     H3    FLR   49.71   6.6B               118M                     OK
     H3    CEG  293.89 104.1B              1131M                     OK
     H3    VST  158.13  53.1B              1050M                     OK
-    H3    TLN  379.77  18.0B               376M                     OK
-    H3    PEG   70.76  35.3B               306M                     OK
+    H3    TLN  379.77  18.0B               377M                     OK
+    H3    PEG   70.76  35.3B               307M                     OK
     H3    ETR  103.99  49.7B               302M                     OK
     H3      D   62.45  54.9B               294M                     OK
     H3     SO   87.04 100.1B               543M                     OK

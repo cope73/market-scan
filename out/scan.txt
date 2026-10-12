@@ -6,32 +6,32 @@ Leaders (H1 trigger is a move of 3.0% or more):
   META   +3.38%  <-- TRIGGER
   GOOGL  +0.30%
   AMZN   -1.11%
-  ORCL   -2.83%
+  ORCL   -2.84%
   AVGO   -1.88%
   AMD    -2.28%
   TSM    -1.98%
   CRWV   -2.22%
 
 H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
-  ALAB   -5.29%    1478M
-  CRDO   -7.25%    1677M
-  MPWR   -4.84%     947M
+  ALAB   -5.29%    1482M
+  CRDO   -7.25%    1679M
+  MPWR   -4.84%     949M
   ONTO   -7.06%     240M
-  CIEN   -9.95%    1159M
-  COHR   -7.87%    2137M
-  LITE   -9.78%    4806M
-  AAOI   -8.17%     991M
+  CIEN   -9.95%    1160M
+  COHR   -7.87%    2143M
+  LITE   -9.78%    4807M
+  AAOI   -8.17%     992M
   FN     -6.14%     371M
   VRT    -1.41%    1103M
-  MOD    -4.99%     250M
+  MOD    -4.99%     252M
   NVT    -2.78%     300M
   POWL   -3.41%     102M
   AAON   -1.61%      90M
   CLS    -4.05%     728M
   SMCI   -4.49%    1473M
   DLR    +0.78%     344M
-  APLD   -1.82%     543M
-  IREN   -1.11%    1591M
+  APLD   -1.82%     544M
+  IREN   -1.11%    1592M
   CORZ   -2.53%     191M
   NBIS   -4.98%    3685M
   WULF   -2.90%     425M
@@ -58,7 +58,7 @@ H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vo
   BRZE   +0.00%      54M
   KVYO   -1.21%     100M
   ALRM   +0.50%      26M
-  PCOR   +0.02%     152M
+  PCOR   +0.02%     153M
   PIPR   -0.58%      61M
   VIRT   -1.29%      76M
   ESNT   -1.30%      60M
@@ -68,7 +68,7 @@ H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vo
 
 H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar vol):
   CCJ    -2.20%     290M
-  LEU    -5.01%     109M
+  LEU    -5.01%     110M
   UEC    -3.92%      97M
   UUUU   -3.01%      88M
   DNN    -2.47%      71M
@@ -83,8 +83,8 @@ H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar
   FLR    -1.91%     118M
   CEG    -1.40%    1131M
   VST    -2.07%    1050M
-  TLN    +0.32%     376M
-  PEG    -2.10%     306M
+  TLN    +0.32%     377M
+  PEG    -2.10%     307M
   ETR    +1.16%     302M
   D      +1.31%     294M
   SO     +1.01%     543M
@@ -106,7 +106,7 @@ H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar
 References:
   SPY   -0.06%
   XLU   +0.53%
-  IWM   -0.38%
+  IWM   -0.37%
   MDY   -0.38%
 
 H11 earnings in the next 7 days (12 names, from cache dated 2026-10-12):

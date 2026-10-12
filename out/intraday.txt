@@ -1,4 +1,4 @@
-=== INTRADAY as of 2026-10-12T20:16:56Z (prev close 2026-10-09) ===
+=== INTRADAY as of 2026-10-12T23:15:58Z (prev close 2026-10-09) ===
 
 Leaders (H1 midday trigger is a move of 3.0% or more vs prior close):
   NVDA   -1.24%  last 226.43
@@ -8,7 +8,7 @@ Leaders (H1 midday trigger is a move of 3.0% or more vs prior close):
   AMZN   -1.12%  last 259.49
   ORCL   -2.83%  last 137.40
   AVGO   -1.87%  last 354.77
-  AMD    -2.30%  last 594.13
+  AMD    -2.30%  last 594.14
   TSM    -1.93%  last 444.58
   CRWV   -2.19%  last 80.29
 
@@ -75,7 +75,7 @@ H3 Domain catalyst: nuclear, utilities, grid (move vs prior close, last price):
   equal-weight basket: -2.10%
 
 References:
-  SPY   -0.06%
+  SPY   -0.07%
   XLU   +0.48%
   IWM   -0.38%
   MDY   -0.39%
