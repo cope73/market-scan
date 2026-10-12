@@ -1,119 +1,125 @@
-=== SCAN as of close 2026-10-09 ===
+=== SCAN as of close 2026-10-12 ===
 
 Leaders (H1 trigger is a move of 3.0% or more):
-  NVDA   +nan%
-  MSFT   +nan%
-  META   +nan%
-  GOOGL  +nan%
-  AMZN   +nan%
-  ORCL   +nan%
-  AVGO   +nan%
-  AMD    +nan%
-  TSM    +nan%
-  CRWV   +nan%
+  NVDA   -1.29%
+  MSFT   +1.14%
+  META   +3.38%  <-- TRIGGER
+  GOOGL  +0.30%
+  AMZN   -1.11%
+  ORCL   -2.83%
+  AVGO   -1.88%
+  AMD    -2.28%
+  TSM    -1.98%
+  CRWV   -2.22%
 
 H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
-  ALAB   +nan%    1469M
-  CRDO   +nan%    1656M
-  MPWR   +nan%     954M
-  ONTO   +nan%     239M
-  CIEN   +nan%    1078M
-  COHR   +nan%    2154M
-  LITE   +nan%    4561M
-  AAOI   +nan%     925M
-  FN     +nan%     357M
-  VRT    +nan%    1211M
-  MOD    +nan%     261M
-  NVT    +nan%     315M
-  POWL   +nan%     100M
-  AAON   +nan%      95M
-  CLS    +nan%     763M
-  SMCI   +nan%    1532M
-  DLR    +nan%     348M
-  APLD   +nan%     530M
-  IREN   +nan%    1579M
-  CORZ   +nan%     197M
-  NBIS   +nan%    3705M
-  WULF   +nan%     455M
-  equal-weight basket: +nan%
+  ALAB   -5.29%    1478M
+  CRDO   -7.25%    1677M
+  MPWR   -4.84%     947M
+  ONTO   -7.06%     240M
+  CIEN   -9.95%    1159M
+  COHR   -7.87%    2137M
+  LITE   -9.78%    4806M
+  AAOI   -8.17%     991M
+  FN     -6.14%     371M
+  VRT    -1.41%    1103M
+  MOD    -4.99%     250M
+  NVT    -2.78%     300M
+  POWL   -3.41%     102M
+  AAON   -1.61%      90M
+  CLS    -4.05%     728M
+  SMCI   -4.49%    1473M
+  DLR    +0.78%     344M
+  APLD   -1.82%     543M
+  IREN   -1.11%    1591M
+  CORZ   -2.53%     191M
+  NBIS   -4.98%    3685M
+  WULF   -2.90%     425M
+  equal-weight basket: -4.62%
 
 H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vol):
-  ESE    +nan%      76M
-  FSS    +nan%      55M
-  GFF    +nan%      36M
-  ALG    -1.91%      33M
-  TRN    +nan%      22M
-  GBX    +nan%      18M
-  BOOT   +nan%      95M
-  SHAK   +nan%      92M
-  WING   +nan%     148M
-  OLLI   +nan%     147M
-  PLNT   +nan%     125M
-  ACAD   +nan%      56M
-  ACHC   +nan%      43M
-  LNTH   +nan%      96M
-  OMCL   +nan%      17M
-  PRCT   +nan%      26M
-  APPF   +nan%      66M
-  BRZE   +nan%      56M
-  KVYO   +nan%     104M
-  ALRM   +nan%      28M
-  PCOR   +nan%     146M
-  PIPR   +nan%      62M
-  VIRT   +nan%      76M
-  ESNT   +nan%      60M
-  RLI    +nan%      47M
-  SKWD   +nan%      21M
-  equal-weight basket: -1.91%
+  ESE    +1.44%      75M
+  FSS    +1.07%      54M
+  GFF    -0.94%      36M
+  ALG    +0.43%      33M
+  TRN    +1.68%      22M
+  GBX    +1.93%      17M
+  BOOT   +0.01%      94M
+  SHAK   +3.65%      92M
+  WING   +3.08%     145M
+  OLLI   +1.30%     147M
+  PLNT   -0.19%     130M
+  ACAD   -1.87%      55M
+  ACHC   +2.84%      45M
+  LNTH   -0.04%      93M
+  OMCL   +2.93%      17M
+  PRCT   +6.36%      25M
+  APPF   -1.58%      67M
+  BRZE   +0.00%      54M
+  KVYO   -1.21%     100M
+  ALRM   +0.50%      26M
+  PCOR   +0.02%     152M
+  PIPR   -0.58%      61M
+  VIRT   -1.29%      76M
+  ESNT   -1.30%      60M
+  RLI    +1.65%      48M
+  SKWD   +2.67%      21M
+  equal-weight basket: +0.87%
 
 H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar vol):
-  CCJ    +nan%     300M
-  LEU    +nan%     115M
-  UEC    +nan%     100M
-  UUUU   +nan%      92M
-  DNN    +nan%      74M
-  NXE    +nan%      42M
-  URG    +nan%       9M
-  BWXT   +nan%     188M
-  CW     +nan%     252M
-  MIR    +nan%      63M
-  OKLO   +nan%     400M
-  SMR    +nan%     324M
-  NNE    +nan%      34M
-  FLR    +nan%     120M
-  CEG    +nan%    1104M
-  VST    +nan%    1002M
-  TLN    +nan%     346M
-  PEG    +nan%     301M
-  ETR    +nan%     321M
-  D      +nan%     310M
-  SO     +nan%     560M
-  PNW    +nan%     129M
-  AEP    +nan%     498M
-  NRG    +nan%     328M
-  GEV    +nan%    2165M
-  PWR    +nan%     589M
-  MYRG   +nan%      73M
-  POWL   +nan%     100M
-  HUBB   -0.27%     227M
-  PRIM   +nan%     109M
-  MTZ    +nan%     328M
-  AZZ    +nan%      36M
-  IESC   +nan%      82M
-  AGX    +nan%     155M
-  equal-weight basket: -0.27%
+  CCJ    -2.20%     290M
+  LEU    -5.01%     109M
+  UEC    -3.92%      97M
+  UUUU   -3.01%      88M
+  DNN    -2.47%      71M
+  NXE    -1.94%      42M
+  URG    -8.61%       9M
+  BWXT   -2.72%     186M
+  CW     -1.65%     247M
+  MIR    -2.23%      68M
+  OKLO   -7.18%     367M
+  SMR    -6.94%     293M
+  NNE    -6.84%      33M
+  FLR    -1.91%     118M
+  CEG    -1.40%    1131M
+  VST    -2.07%    1050M
+  TLN    +0.32%     376M
+  PEG    -2.10%     306M
+  ETR    +1.16%     302M
+  D      +1.31%     294M
+  SO     +1.01%     543M
+  PNW    +1.00%     135M
+  AEP    +1.16%     494M
+  NRG    -1.48%     332M
+  GEV    -0.79%    2068M
+  PWR    -1.58%     571M
+  MYRG   +0.50%      74M
+  POWL   -3.41%     102M
+  HUBB   -0.01%     224M
+  PRIM   -0.97%     108M
+  MTZ    -2.73%     335M
+  AZZ    +0.66%      35M
+  IESC   -3.27%      81M
+  AGX    -1.20%     149M
+  equal-weight basket: -2.07%
 
 References:
-  SPY   +nan%
-  XLU   +nan%
-  IWM   +nan%
-  MDY   +nan%
+  SPY   -0.06%
+  XLU   +0.53%
+  IWM   -0.38%
+  MDY   -0.38%
 
-H11 earnings in the next 7 days (6 names, from cache dated 2026-10-10):
-ticker earnings_date                name
-   ACI    2026-10-13          Albertsons
-  HOMB    2026-10-14     Home BancShares
-    AA    2026-10-15               Alcoa
-  CBSH    2026-10-15 Commerce Bancshares
-   CMC    2026-10-15   Commercial Metals
-   FHN    2026-10-15       First Horizon
+H11 earnings in the next 7 days (12 names, from cache dated 2026-10-12):
+ticker earnings_date                            name
+   ACI    2026-10-13                      Albertsons
+  HOMB    2026-10-14                 Home BancShares
+    AA    2026-10-15                           Alcoa
+  CBSH    2026-10-15             Commerce Bancshares
+   CMC    2026-10-15               Commercial Metals
+   FHN    2026-10-15                   First Horizon
+   CCK    2026-10-19                  Crown Holdings
+   CLF    2026-10-19                Cleveland-Cliffs
+   FNB    2026-10-19                 FNB Corporation
+   WAL    2026-10-19 Western Alliance Bancorporation
+  WTFC    2026-10-19              Wintrust Financial
+  ZION    2026-10-19            Zions Bancorporation
