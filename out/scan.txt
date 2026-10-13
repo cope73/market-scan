@@ -15,11 +15,11 @@ Leaders (H1 trigger is a move of 3.0% or more):
 H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
   ALAB   -5.29%    1482M
   CRDO   -7.25%    1679M
-  MPWR   -4.84%     949M
+  MPWR   -4.84%     951M
   ONTO   -7.06%     240M
   CIEN   -9.95%    1160M
   COHR   -7.87%    2143M
-  LITE   -9.78%    4807M
+  LITE   -9.78%    4808M
   AAOI   -8.17%     992M
   FN     -6.14%     371M
   VRT    -1.41%    1103M
@@ -27,13 +27,13 @@ H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
   NVT    -2.78%     300M
   POWL   -3.41%     102M
   AAON   -1.61%      90M
-  CLS    -4.05%     728M
-  SMCI   -4.49%    1473M
+  CLS    -4.05%     730M
+  SMCI   -4.49%    1474M
   DLR    +0.78%     344M
   APLD   -1.82%     544M
-  IREN   -1.11%    1592M
+  IREN   -1.11%    1593M
   CORZ   -2.53%     191M
-  NBIS   -4.98%    3685M
+  NBIS   -4.98%    3686M
   WULF   -2.90%     425M
   equal-weight basket: -4.62%
 
@@ -58,8 +58,8 @@ H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vo
   BRZE   +0.00%      54M
   KVYO   -1.21%     100M
   ALRM   +0.50%      26M
-  PCOR   +0.02%     153M
-  PIPR   -0.58%      61M
+  PCOR   +0.02%     154M
+  PIPR   -0.58%      62M
   VIRT   -1.29%      76M
   ESNT   -1.30%      60M
   RLI    +1.65%      48M
@@ -73,14 +73,14 @@ H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar
   UUUU   -3.01%      88M
   DNN    -2.47%      71M
   NXE    -1.94%      42M
-  URG    -8.61%       9M
+  URG    -8.91%       9M
   BWXT   -2.72%     186M
   CW     -1.65%     247M
   MIR    -2.23%      68M
   OKLO   -7.18%     367M
   SMR    -6.94%     293M
   NNE    -6.84%      33M
-  FLR    -1.91%     118M
+  FLR    -1.91%     119M
   CEG    -1.40%    1131M
   VST    -2.07%    1050M
   TLN    +0.32%     377M
@@ -95,13 +95,13 @@ H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar
   PWR    -1.58%     571M
   MYRG   +0.50%      74M
   POWL   -3.41%     102M
-  HUBB   -0.01%     224M
+  HUBB   +nan%     227M
   PRIM   -0.97%     108M
   MTZ    -2.73%     335M
   AZZ    +0.66%      35M
   IESC   -3.27%      81M
   AGX    -1.20%     149M
-  equal-weight basket: -2.07%
+  equal-weight basket: -2.15%
 
 References:
   SPY   -0.06%
@@ -109,17 +109,30 @@ References:
   IWM   -0.37%
   MDY   -0.38%
 
-H11 earnings in the next 7 days (12 names, from cache dated 2026-10-12):
+H11 earnings in the next 7 days (25 names, from cache dated 2026-10-13):
 ticker earnings_date                            name
    ACI    2026-10-13                      Albertsons
   HOMB    2026-10-14                 Home BancShares
     AA    2026-10-15                           Alcoa
   CBSH    2026-10-15             Commerce Bancshares
-   CMC    2026-10-15               Commercial Metals
    FHN    2026-10-15                   First Horizon
-   CCK    2026-10-19                  Crown Holdings
-   CLF    2026-10-19                Cleveland-Cliffs
-   FNB    2026-10-19                 FNB Corporation
+   CMC    2026-10-15               Commercial Metals
    WAL    2026-10-19 Western Alliance Bancorporation
   WTFC    2026-10-19              Wintrust Financial
+   FNB    2026-10-19                 FNB Corporation
+   CCK    2026-10-19                  Crown Holdings
+   CLF    2026-10-19                Cleveland-Cliffs
   ZION    2026-10-19            Zions Bancorporation
+   ELS    2026-10-20     Equity Lifestyle Properties
+  EWBC    2026-10-20               East West Bancorp
+  ALLY    2026-10-20                  Ally Financial
+   ALK    2026-10-20                Alaska Air Group
+   HWC    2026-10-20                 Hancock Whitney
+   MLI    2026-10-20              Mueller Industries
+   NLY    2026-10-20       Annaly Capital Management
+   OZK    2026-10-20                        Bank OZK
+  PEGA    2026-10-20                     Pegasystems
+  VICR    2026-10-20               Vicor Corporation
+   VMI    2026-10-20              Valmont Industries
+   ADC    2026-10-20                    Agree Realty
+  WFRD    2026-10-20       Weatherford International
