@@ -1,7 +1,7 @@
 ticker,earnings_date,name
 AA,2026-10-15,Alcoa
 AAL,2026-10-22,American Airlines Group
-ACI,2026-10-13,Albertsons
+ACI,2027-01-06,Albertsons
 ACM,2026-11-17,AECOM
 ADC,2026-10-20,Agree Realty
 AEIS,2026-11-03,Advanced Energy
@@ -27,7 +27,7 @@ ARW,2026-10-29,Arrow Electronics
 ARWR,2026-11-24,Arrowhead Pharmaceuticals
 ASB,2026-10-22,Associated Bank
 ASH,2026-11-03,Ashland Global
-ATI,2026-10-27,ATI Inc.
+ATI,2026-10-29,ATI Inc.
 ATR,2026-10-29,AptarGroup
 AVAV,2026-12-02,AeroVironment
 AVNT,2026-11-04,Avient
@@ -217,7 +217,7 @@ MORN,2026-10-28,"Morningstar, Inc."
 MP,2026-11-05,MP Materials
 MSA,2026-10-27,MSA Safety
 MSM,2026-10-22,MSC Industrial Direct
-MTDR,2026-10-27,Matador Resources
+MTDR,2026-11-03,Matador Resources
 MTG,2026-11-04,MGIC Investment Corporation
 MTN,2026-12-09,Vail Resorts
 MTSI,2026-11-05,MACOM Technology Solutions
@@ -231,10 +231,10 @@ NJR,2026-11-16,New Jersey Resources
 NLY,2026-10-20,Annaly Capital Management
 NNN,2026-11-04,NNN Reit
 NOV,2026-10-27,NOV Inc.
-NOVT,2026-11-03,Novanta
+NOVT,2026-11-09,Novanta
 NTNX,2026-11-25,Nutanix
 NVST,2026-11-04,Envista Holdings
-NWE,2026-10-28,NorthWestern Energy
+NWE,2026-11-04,NorthWestern Energy
 NXST,2026-11-05,Nexstar Media Group
 NXT,2026-10-28,Nextpower
 NYT,2026-11-04,New York Times Company
@@ -311,7 +311,7 @@ SLGN,2026-10-29,Silgan Holdings
 SLM,2026-10-22,SLM Corp
 SMG,2026-11-04,Scotts Miracle-Gro Company
 SMTC,2026-11-23,Semtech
-SN,2026-11-05,SharkNinja
+SN,2026-11-04,SharkNinja
 SNX,2026-09-24,TD Synnex
 SOLS,2026-11-04,Solstice Advanced Materials
 SON,2026-10-21,Sonoco
@@ -331,7 +331,7 @@ TEX,2026-10-29,Terex
 THC,2026-10-29,Tenet Health
 THG,2026-10-28,Hanover Insurance
 THO,2026-12-02,Thor Industries
-TKR,2026-10-28,Timken
+TKR,2026-11-04,Timken
 TNL,2026-10-27,Travel + Leisure Co.
 TOL,2026-08-18,Toll Brothers
 TOST,2026-11-03,"Toast, Inc."
@@ -339,7 +339,7 @@ TREX,2026-11-04,Trex
 TRU,2026-10-27,TransUnion
 TTC,2026-09-03,Toro
 TTEK,2026-11-11,Tetra Tech
-TTMI,2026-11-04,TTM Technologies
+TTMI,2026-10-22,TTM Technologies
 TWLO,2026-10-29,Twilio
 TXNM,2026-10-30,TXNM Energy
 TXRH,2026-11-05,Texas Roadhouse
