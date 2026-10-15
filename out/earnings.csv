@@ -56,12 +56,12 @@ BWA,2026-10-29,BorgWarner
 BYD,2026-10-22,Boyd Gaming
 CACI,2026-10-21,CACI International
 CAR,2026-11-03,Avis Budget Group
-CART,2026-11-09,Maplebear Inc.
-CAVA,2026-11-10,Cava Group
+CART,2026-11-05,Maplebear Inc.
+CAVA,2026-11-04,Cava Group
 CBSH,2026-10-15,Commerce Bancshares
 CBT,2026-11-02,Cabot Corp
 CCK,2026-10-19,Crown Holdings
-CDE,2026-10-28,Coeur Mining
+CDE,2026-11-04,Coeur Mining
 CDP,2026-10-29,COPT Defense Properties
 CELH,2026-11-09,Celsius Holdings
 CFR,2026-10-29,Frost Bank
@@ -108,7 +108,7 @@ DT,2026-11-04,Dynatrace
 DTM,2026-10-29,DT Midstream
 DUOL,2026-11-03,Duolingo
 DY,2026-11-25,Dycom Industries
-EEFT,2026-10-21,Euronet Worldwide
+EEFT,2026-10-27,Euronet Worldwide
 EGP,2026-10-21,EastGroup Properties
 EHC,2026-10-28,Encompass Health
 ELAN,2026-11-06,Elanco
@@ -165,7 +165,7 @@ HL,2026-11-05,Hecla Mining
 HLI,2026-10-28,Houlihan Lokey
 HLNE,2026-11-03,Hamilton Lane
 HOG,2026-10-29,Harley-Davidson
-HOMB,2026-10-14,Home BancShares
+HOMB,2027-01-13,Home BancShares
 HQY,2026-08-27,HealthEquity
 HR,2026-10-29,Healthcare Realty Trust
 HRB,2026-11-05,H&R Block
@@ -178,7 +178,7 @@ ILMN,2026-10-29,"Illumina, Inc."
 INGR,2026-11-03,Ingredion
 IPGP,2026-11-03,IPG Photonics
 IRT,2026-11-02,Independence Realty Trust
-ITT,2026-10-27,ITT Inc.
+ITT,2026-11-04,ITT Inc.
 JAZZ,2026-11-04,Jazz Pharmaceuticals
 JEF,2026-09-28,Jefferies
 JLL,2026-10-28,Jones Lang LaSalle
@@ -301,7 +301,7 @@ SCI,2026-10-28,Service Corp Intl
 SEIC,2026-10-21,SEI Investments Company
 SF,2026-10-21,Stifel
 SFM,2026-10-28,Sprouts Farmers Market
-SGI,2026-11-05,Somnigroup International
+SGI,2026-11-09,Somnigroup International
 SHC,2026-11-03,Sotera Health
 SIGI,2026-10-22,Selective Insurance Group
 SIRI,2026-10-29,SiriusXM
@@ -351,10 +351,10 @@ UMBF,2026-10-27,UMB Financial Corp.
 UNM,2026-11-03,Unum
 USFD,2026-11-05,US Foods
 UTHR,2026-10-28,United Therapeutics
-VAL,2026-10-28,Valaris
+VAL,2026-11-02,Valaris
 VC,2026-10-22,Visteon
 VFC,2026-10-28,VF Corporation
-VIAV,2026-10-28,Viavi Solutions
+VIAV,2026-11-04,Viavi Solutions
 VICR,2026-10-20,Vicor Corporation
 VLY,2026-10-22,Valley Bank
 VMI,2026-10-20,Valmont Industries
@@ -375,7 +375,7 @@ WMS,2026-11-05,Advanced Drainage Systems
 WPC,2026-10-27,W. P. Carey
 WSO,2026-10-27,Watsco
 WTFC,2026-10-19,Wintrust Financial
-WTRG,2026-11-04,Essential Utilities
+WTRG,2026-11-03,Essential Utilities
 WTS,2026-11-04,Watts Water Technologies
 WWD,2026-11-23,"Woodward, Inc."
 XPO,2026-10-29,"XPO, Inc."
