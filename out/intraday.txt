@@ -1,10 +1,10 @@
-=== INTRADAY as of 2026-10-14T20:22:10Z (prev close 2026-10-13) ===
+=== INTRADAY as of 2026-10-15T00:00:28Z (prev close 2026-10-13) ===
 
 Leaders (H1 midday trigger is a move of 3.0% or more vs prior close):
   NVDA   -3.07%  last 221.50  <-- TRIGGER
   MSFT   -1.76%  last 533.87
   META   -3.21%  last 738.00  <-- TRIGGER
-  GOOGL  -1.67%  last 347.87
+  GOOGL  -1.66%  last 347.90
   AMZN   -1.71%  last 254.16
   ORCL   -8.80%  last 130.60  <-- TRIGGER
   AVGO   -3.09%  last 346.28  <-- TRIGGER
@@ -28,7 +28,7 @@ H1 Narrative propagation lag (move vs prior close, last price):
   LITE   -9.26%  896.46
   APLD   -9.43%  20.33
   CLS    -9.53%  323.37
-  CRDO   -9.55%  179.38
+  CRDO   -9.58%  179.31
   NBIS   -10.04%  186.09
   CIEN   -10.22%  359.47
   AAOI   -11.81%  86.23

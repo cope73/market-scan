@@ -1,34 +1,34 @@
 sleeve ticker   price   mcap avg_dollar_vol_20d                  flags
     H1   ALAB  300.28  52.1B              1520M                     OK
-    H1   CRDO  179.23  33.7B              1777M                     OK
+    H1   CRDO  179.23  33.7B              1780M                     OK
     H1   MPWR 1243.11  61.1B              1002M                     OK
-    H1   ONTO  241.41  11.8B               246M                     OK
-    H1   CIEN  359.60  51.0B              1154M                     OK
-    H1   COHR  263.32  51.9B              2145M                     OK
-    H1   LITE  896.33  81.2B              4840M                     OK
-    H1   AAOI   86.22   7.3B              1052M                     OK
-    H1     FN  392.95  14.1B               387M                     OK
-    H1    VRT  222.83  85.8B              1101M                     OK
-    H1    MOD  157.75   8.4B               259M                     OK
-    H1    NVT  152.72  24.7B               301M                     OK
+    H1   ONTO  241.41  11.8B               248M                     OK
+    H1   CIEN  359.60  51.0B              1160M                     OK
+    H1   COHR  263.32  51.9B              2152M                     OK
+    H1   LITE  896.33  81.2B              4843M                     OK
+    H1   AAOI   86.22   7.3B              1053M                     OK
+    H1     FN  392.95  14.1B               390M                     OK
+    H1    VRT  222.83  85.8B              1109M                     OK
+    H1    MOD  157.75   8.4B               260M                     OK
+    H1    NVT  152.72  24.7B               307M                     OK
     H1   POWL  169.53   6.2B               102M                     OK
     H1   AAON   80.53   6.6B                89M                     OK
-    H1    CLS  323.32  40.8B               758M                     OK
-    H1   SMCI   35.78  23.1B              1475M                     OK
-    H1    DLR  172.09  63.8B               323M                     OK
-    H1   APLD   20.33   6.1B               567M                     OK
-    H1   IREN   30.56  12.0B              1668M                     OK
+    H1    CLS  323.32  40.8B               760M                     OK
+    H1   SMCI   35.78  23.5B              1477M                     OK
+    H1    DLR  172.09  63.8B               326M                     OK
+    H1   APLD   20.33   6.1B               568M                     OK
+    H1   IREN   30.56  12.0B              1670M                     OK
     H1   CORZ   13.51   4.3B               203M                     OK
-    H1   NBIS  186.01  50.6B              3921M                     OK
-    H1   WULF   11.54   5.8B               431M                     OK
-    H2    ESE  257.45   6.7B                72M                     OK
+    H1   NBIS  186.01  50.6B              3928M                     OK
+    H1   WULF   11.54   5.8B               433M                     OK
+    H2    ESE  257.45   6.7B                74M                     OK
     H2    FSS  113.00   6.9B                54M                     OK
-    H2    GFF   92.08   4.2B                34M                     OK
+    H2    GFF   92.08   4.2B                35M                     OK
     H2    ALG  153.93   1.9B                33M                     OK
     H2    TRN   26.13   2.1B                22M                     OK
     H2    GBX   39.25   1.2B                16M                     OK
-    H2   BOOT  112.86   3.4B                82M                     OK
-    H2   SHAK   68.77   2.8B                91M                     OK
+    H2   BOOT  112.86   3.4B                83M                     OK
+    H2   SHAK   68.77   2.8B                92M                     OK
     H2   WING  122.90   3.3B               134M                     OK
     H2   OLLI   93.12   5.5B               153M          DOLLARVOL>MAX
     H2   PLNT   46.95   3.5B               131M                     OK
@@ -41,43 +41,43 @@ sleeve ticker   price   mcap avg_dollar_vol_20d                  flags
     H2   BRZE   28.25   3.2B                53M                     OK
     H2   KVYO   17.01   5.1B                97M                     OK
     H2   ALRM   56.68   2.8B                26M                     OK
-    H2   PCOR   55.97   8.5B               156M MCAP>MAX,DOLLARVOL>MAX
-    H2   PIPR   64.48   4.6B                67M                     OK
-    H2   VIRT   55.48   4.9B                77M                     OK
-    H2   ESNT   62.85   5.6B                57M                     OK
-    H2    RLI   57.63   5.3B                48M                     OK
+    H2   PCOR   55.97   8.5B               157M MCAP>MAX,DOLLARVOL>MAX
+    H2   PIPR   64.48   4.6B                68M                     OK
+    H2   VIRT   55.48   4.9B                78M                     OK
+    H2   ESNT   62.85   5.6B                58M                     OK
+    H2    RLI   57.63   5.3B                49M                     OK
     H2   SKWD   59.35   2.6B                21M                     OK
-    H3    CCJ   81.47  35.5B               302M                     OK
+    H3    CCJ   81.47  35.5B               304M                     OK
     H3    LEU  119.95   2.5B               109M                     OK
     H3    UEC    7.70   3.8B               100M                     OK
-    H3   UUUU    8.34   2.1B                88M                     OK
+    H3   UUUU    8.34   2.2B                89M                     OK
     H3    DNN    2.16   2.0B                72M                     OK
     H3    NXE    8.08   5.4B                43M                     OK
     H3    URG    0.83   0.3B                 9M                     OK
-    H3   BWXT  134.44  12.3B               183M                     OK
-    H3     CW  500.48  18.5B               243M                     OK
+    H3   BWXT  134.44  12.3B               184M                     OK
+    H3     CW  500.48  18.5B               246M                     OK
     H3    MIR   15.90   3.9B                69M                     OK
-    H3   OKLO   29.04   5.4B               371M                     OK
-    H3    SMR    5.83   2.4B               282M                     OK
+    H3   OKLO   29.04   5.4B               374M                     OK
+    H3    SMR    5.83   2.4B               283M                     OK
     H3    NNE   13.01   0.7B                34M                     OK
-    H3    FLR   47.63   6.4B               116M                     OK
+    H3    FLR   47.63   6.4B               117M                     OK
     H3    CEG  279.54  99.0B              1139M                     OK
-    H3    VST  151.79  50.9B              1075M                     OK
-    H3    TLN  358.42  17.0B               391M                     OK
-    H3    PEG   70.56  35.2B               314M                     OK
-    H3    ETR  104.50  49.9B               298M                     OK
-    H3      D   62.80  55.2B               296M                     OK
-    H3     SO   89.38 102.8B               550M                     OK
-    H3    PNW  102.04  12.4B               139M                     OK
+    H3    VST  151.79  50.9B              1082M                     OK
+    H3    TLN  358.42  17.0B               392M                     OK
+    H3    PEG   70.56  35.2B               315M                     OK
+    H3    ETR  104.50  49.9B               304M                     OK
+    H3      D   62.80  55.2B               297M                     OK
+    H3     SO   89.38 102.8B               557M                     OK
+    H3    PNW  102.04  12.4B               141M                     OK
     H3    AEP  126.13  68.7B               488M                     OK
-    H3    NRG  100.85  21.2B               329M                     OK
-    H3    GEV  941.78 250.8B              2058M                     OK
-    H3    PWR  660.53  99.3B               591M                     OK
+    H3    NRG  100.85  21.2B               332M                     OK
+    H3    GEV  941.78 250.8B              2072M                     OK
+    H3    PWR  660.53  99.3B               595M                     OK
     H3   MYRG  291.17   4.5B                77M                     OK
     H3   POWL  169.53   6.2B               102M                     OK
-    H3   HUBB  473.37  25.0B               229M                     OK
-    H3   PRIM   78.03   4.2B               105M                     OK
-    H3    MTZ  194.46  15.6B               336M                     OK
+    H3   HUBB  473.37  25.0B               231M                     OK
+    H3   PRIM   78.03   4.2B               107M                     OK
+    H3    MTZ  194.46  15.6B               339M                     OK
     H3    AZZ  137.66   4.1B                38M                     OK
     H3   IESC  266.51  11.3B                81M                     OK
     H3    AGX  365.81   5.1B               145M                     OK
