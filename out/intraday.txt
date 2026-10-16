@@ -1,81 +1,81 @@
-=== INTRADAY as of 2026-10-16T19:44:26Z (prev close 2026-10-15) ===
+=== INTRADAY as of 2026-10-16T23:44:26Z (prev close 2026-10-15) ===
 
 Leaders (H1 midday trigger is a move of 3.0% or more vs prior close):
-  NVDA   -1.44%  last 214.11
-  MSFT   -2.58%  last 525.51
-  META   -4.56%  last 703.16  <-- TRIGGER
-  GOOGL  -2.66%  last 339.94
-  AMZN   -2.12%  last 249.35
-  ORCL   -4.78%  last 128.04  <-- TRIGGER
-  AVGO   -4.33%  last 329.43  <-- TRIGGER
-  AMD    -5.91%  last 529.02  <-- TRIGGER
-  TSM    -2.38%  last 412.21
-  CRWV   -13.45%  last 60.32  <-- TRIGGER
+  NVDA   -1.43%  last 214.13
+  MSFT   -1.94%  last 528.95
+  META   -3.72%  last 709.34  <-- TRIGGER
+  GOOGL  -2.47%  last 340.59
+  AMZN   -1.89%  last 249.94
+  ORCL   -4.64%  last 128.23  <-- TRIGGER
+  AVGO   -4.51%  last 328.81  <-- TRIGGER
+  AMD    -5.95%  last 528.75  <-- TRIGGER
+  TSM    -2.31%  last 412.51
+  CRWV   -11.91%  last 61.39  <-- TRIGGER
 
 H1 Narrative propagation lag (move vs prior close, last price):
-  DLR    +0.52%  175.37
-  NVT    -2.35%  142.30
-  MPWR   -2.81%  1214.16
-  POWL   -3.80%  164.34
-  MOD    -3.84%  148.10
-  AAON   -3.88%  74.30
-  VRT    -3.93%  206.32
-  ONTO   -4.03%  222.60
-  CLS    -4.06%  302.45
-  CRDO   -4.91%  169.74
-  LITE   -5.27%  823.72
-  FN     -5.72%  363.16
-  ALAB   -6.25%  283.12
-  CIEN   -6.85%  332.10
-  CORZ   -7.13%  13.43
-  COHR   -7.52%  231.75
-  WULF   -8.00%  11.61
-  AAOI   -9.57%  75.72
-  SMCI   -9.82%  31.65
-  IREN   -12.36%  26.64
-  NBIS   -12.90%  164.10
-  APLD   -13.24%  17.69
-  equal-weight basket: -6.26%
+  DLR    +0.87%  175.99
+  NVT    -2.53%  142.04
+  MPWR   -3.08%  1210.71
+  POWL   -3.30%  165.19
+  MOD    -3.37%  148.82
+  CLS    -3.68%  303.66
+  VRT    -3.88%  206.42
+  AAON   -4.64%  73.71
+  ONTO   -4.87%  220.65
+  CRDO   -4.99%  169.59
+  LITE   -5.28%  823.66
+  ALAB   -5.35%  285.83
+  FN     -5.60%  363.61
+  CIEN   -6.58%  333.05
+  CORZ   -6.75%  13.48
+  COHR   -7.05%  232.93
+  WULF   -7.65%  11.65
+  AAOI   -9.72%  75.59
+  SMCI   -9.86%  31.63
+  IREN   -11.16%  27.00
+  APLD   -11.50%  18.05
+  NBIS   -12.11%  165.60
+  equal-weight basket: -6.00%
 
 H3 Domain catalyst: nuclear, utilities, grid (move vs prior close, last price):
-  AEP    +2.25%  127.09
-  SO     +2.01%  90.97
-  PEG    +1.88%  71.53
-  PNW    +1.85%  103.46
-  D      +1.22%  63.63
-  ETR    +1.21%  105.21
-  NRG    +0.72%  103.61
-  TLN    +0.37%  354.92
-  CW     -0.03%  501.32
-  BWXT   -0.48%  136.54
-  HUBB   -0.67%  461.58
-  GEV    -0.72%  919.81
-  AZZ    -0.87%  129.45
-  MTZ    -1.01%  189.69
-  PRIM   -1.19%  72.87
-  VST    -1.34%  152.10
-  CEG    -1.65%  270.47
-  FLR    -1.77%  46.83
-  PWR    -1.83%  630.45
-  UUUU   -2.22%  8.38
-  CCJ    -2.52%  81.14
-  MYRG   -2.54%  278.33
-  NXE    -2.63%  8.34
-  MIR    -2.64%  15.13
-  POWL   -3.80%  164.34
-  DNN    -4.03%  2.27
-  UEC    -4.53%  7.80
-  IESC   -4.96%  249.43
+  AEP    +2.28%  127.12
+  SO     +2.21%  91.15
+  PNW    +1.83%  103.44
+  PEG    +1.83%  71.50
+  ETR    +1.12%  105.12
+  D      +1.11%  63.56
+  NRG    +0.85%  103.73
+  TLN    +0.32%  354.74
+  CW     +0.14%  502.20
+  BWXT   -0.17%  136.96
+  MTZ    -0.30%  191.06
+  GEV    -0.58%  921.05
+  AZZ    -0.69%  129.70
+  PRIM   -0.75%  73.20
+  HUBB   -0.76%  461.19
+  UUUU   -0.99%  8.48
+  CEG    -1.35%  271.29
+  VST    -1.39%  152.02
+  FLR    -1.55%  46.93
+  PWR    -1.63%  631.77
+  MYRG   -1.96%  279.96
+  CCJ    -2.04%  81.53
+  NXE    -2.28%  8.36
+  MIR    -2.45%  15.16
+  UEC    -3.18%  7.91
+  POWL   -3.30%  165.19
+  DNN    -3.60%  2.28
+  IESC   -4.03%  251.87
+  NNE    -5.19%  12.89
   SMR    -5.20%  5.83
-  NNE    -6.03%  12.77
-  AGX    -6.12%  344.69
-  URG    -6.53%  0.84
-  OKLO   -8.00%  27.61
-  LEU    -10.09%  114.19
-  equal-weight basket: -2.11%
+  AGX    -5.80%  345.86
+  URG    -5.97%  0.85
+  OKLO   -6.76%  27.98
+  LEU    -9.58%  114.84
+  equal-weight basket: -1.76%
 
 References:
-  SPY   -1.29%
-  XLU   +1.32%
-  IWM   -1.87%
-  MDY   -1.12%
+  SPY   -1.10%
+  XLU   +1.36%
+  IWM   -1.67%
+  MDY   -0.92%
