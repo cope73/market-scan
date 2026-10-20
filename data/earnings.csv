@@ -12,7 +12,7 @@ AIT,2026-10-27,Applied Industrial Technologies
 ALGM,2026-10-29,Allegro MicroSystems
 ALK,2026-10-20,Alaska Air Group
 ALLY,2026-10-20,Ally Financial
-ALSN,2026-10-29,Allison Transmission
+ALSN,2026-11-02,Allison Transmission
 ALV,2026-10-23,Autoliv
 AM,2026-10-28,Antero Midstream
 AMG,2026-11-02,Affiliated Managers Group
@@ -70,7 +70,7 @@ CGNX,2026-11-04,Cognex
 CHDN,2026-10-28,Churchill Downs Inc.
 CHE,2026-10-27,Chemed Corp.
 CHH,2026-11-02,Choice Hotels
-CHRD,2026-11-03,Chord Energy
+CHRD,2026-11-04,Chord Energy
 CHWY,2026-12-09,Chewy
 CLF,2026-10-19,Cleveland-Cliffs
 CLH,2026-10-28,Clean Harbors
@@ -101,10 +101,10 @@ DCI,2026-08-26,Donaldson Company
 DINO,2026-10-28,HF Sinclair
 DKS,2026-11-24,Dick's Sporting Goods
 DLB,2026-11-17,Dolby
-DOCN,2026-11-04,DigitalOcean
+DOCN,2026-11-03,DigitalOcean
 DOCS,2026-11-05,Doximity
 DOCU,2026-12-03,Docusign
-DT,2026-11-04,Dynatrace
+DT,2026-11-03,Dynatrace
 DTM,2026-10-29,DT Midstream
 DUOL,2026-11-03,Duolingo
 DY,2026-11-25,Dycom Industries
@@ -136,7 +136,7 @@ FHN,2027-01-13,First Horizon
 FIVE,2026-12-02,Five Below
 FLG,2026-10-23,Flagstar Bank
 FLS,2026-10-28,Flowserve
-FNB,2026-10-19,FNB Corporation
+FNB,2027-01-19,FNB Corporation
 FND,2026-10-29,Floor & Decor
 FNF,2026-11-05,Fidelity National Financial
 FOUR,2026-11-05,Shift4
@@ -179,7 +179,7 @@ INGR,2026-11-05,Ingredion
 IPGP,2026-11-03,IPG Photonics
 IRT,2026-11-02,Independence Realty Trust
 ITT,2026-11-04,ITT Inc.
-JAZZ,2026-11-04,Jazz Pharmaceuticals
+JAZZ,2026-11-02,Jazz Pharmaceuticals
 JEF,2026-09-28,Jefferies
 JLL,2026-10-28,Jones Lang LaSalle
 KBH,2026-12-17,KB Home
@@ -210,7 +210,7 @@ MEDP,2026-10-21,Medpace
 MIDD,2026-11-05,Middleby
 MKSI,2026-11-04,MKS Instruments
 MLI,2026-10-20,Mueller Industries
-MMS,2026-11-19,Maximus Inc.
+MMS,2026-11-20,Maximus Inc.
 MOG-A,2026-11-20,Moog Inc.
 MOH,2026-10-21,Molina Healthcare
 MORN,2026-10-28,"Morningstar, Inc."
@@ -262,7 +262,7 @@ PEGA,2026-10-20,Pegasystems
 PEN,2026-11-04,"Penumbra, Inc."
 PFGC,2026-11-04,Performance Food Group
 PII,2026-10-26,Polaris
-PINS,2026-11-09,Pinterest
+PINS,2026-10-29,Pinterest
 PK,2026-11-04,Park Hotels & Resorts
 PNFP,2026-10-21,Pinnacle Financial Partners
 POR,2026-10-29,Portland General Electric
@@ -284,7 +284,7 @@ RH,2026-12-10,RH
 RMBS,2026-10-26,Rambus
 RNR,2026-10-27,RenaissanceRe
 ROIV,2026-11-09,Roivant Sciences
-ROKU,2026-11-05,"Roku, Inc."
+ROKU,2026-11-02,"Roku, Inc."
 RPM,2027-01-07,RPM International
 RRC,2026-10-27,Range Resources
 RRX,2026-11-03,Regal Rexnord
@@ -294,9 +294,9 @@ RYN,2026-11-04,Rayonier
 SAIA,2026-10-29,Saia
 SAIC,2026-08-31,Science Applications Intl Corp
 SAM,2026-10-22,Boston Beer Company
-SANM,2026-11-02,Sanmina Corporation
+SANM,2026-11-09,Sanmina Corporation
 SARO,2026-11-10,StandardAero
-SBRA,2026-11-04,Sabra Health Care REIT
+SBRA,2026-11-02,Sabra Health Care REIT
 SCI,2026-10-28,Service Corp Intl
 SEIC,2026-10-21,SEI Investments Company
 SF,2026-10-21,Stifel
@@ -316,14 +316,14 @@ SNX,2026-09-24,TD Synnex
 SOLS,2026-11-04,Solstice Advanced Materials
 SON,2026-10-21,Sonoco
 SPXC,2026-10-29,SPX Technologies
-SR,2026-11-13,Spire
+SR,2026-11-17,Spire
 SSB,2026-10-21,South State Bank
 SSD,2026-10-26,Simpson Manufacturing
 ST,2026-10-27,Sensata Technologies
 STAG,2026-10-27,STAG Industrial
 STRL,2026-10-28,Sterling Infrastructure
 STWD,2026-11-06,Starwood Property Trust
-SUI,2026-10-28,Sun Communities
+SUI,2026-10-26,Sun Communities
 SWX,2026-11-04,Southwest Gas Corp
 SYNA,2026-11-05,Synaptics
 TCBI,2026-10-21,Texas Capital Bancshares
@@ -368,7 +368,7 @@ WCC,2026-10-29,WESCO International
 WEX,2026-10-28,WEX Inc.
 WFRD,2026-10-20,Weatherford International
 WH,2026-10-21,Wyndham Hotels & Resorts
-WHR,2026-10-28,Whirlpool Corporation
+WHR,2026-10-26,Whirlpool Corporation
 WLK,2026-10-29,Westlake Corporation
 WMG,2026-11-19,Warner Music Group
 WMS,2026-11-05,Advanced Drainage Systems
