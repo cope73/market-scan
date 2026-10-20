@@ -1,182 +1,197 @@
-=== SCAN as of close 2026-10-19 ===
+=== SCAN as of close 2026-10-16 ===
 
 Leaders (H1 trigger is a move of 3.0% or more):
-  NVDA   +1.38%
-  MSFT   +0.84%
-  META   -0.55%
-  GOOGL  +1.05%
-  AMZN   +4.98%  <-- TRIGGER
-  ORCL   +1.06%
-  AVGO   +1.78%
-  AMD    +1.76%
-  TSM    +1.84%
-  CRWV   -0.44%
+  NVDA   -1.43%
+  MSFT   -1.93%
+  META   -3.72%  <-- TRIGGER
+  GOOGL  -2.47%
+  AMZN   -1.87%
+  ORCL   -4.64%  <-- TRIGGER
+  AVGO   -4.52%  <-- TRIGGER
+  AMD    -5.95%  <-- TRIGGER
+  TSM    -2.28%
+  CRWV   -11.91%  <-- TRIGGER
 
 H1 Narrative propagation lag (prior session move, avg 20d dollar vol):
-  ALAB   +0.27%    1412M
-  CRDO   +1.83%    1690M
-  MPWR   +3.53%     960M
-  ONTO   +2.53%     242M
-  CIEN   +3.45%    1126M
-  COHR   -0.38%    2066M
-  LITE   +1.26%    4646M
-  AAOI   +3.48%    1092M
-  FN     -0.23%     386M
-  VRT    -0.16%    1146M
-  MOD    +0.49%     259M
-  NVT    -0.32%     316M
-  POWL   +0.38%     111M
-  AAON   +2.18%      92M
-  CLS    -1.14%     775M
-  SMCI   +1.49%    1342M
-  DLR    -1.69%     316M
-  APLD   +6.65%     579M
-  IREN   +2.74%    1692M
-  CORZ   +1.85%     217M
-  NBIS   +2.88%    4119M
-  WULF   +3.25%     484M
-  equal-weight basket: +1.56%
+  ALAB   -5.35%    1475M
+  CRDO   -4.93%    1730M
+  MPWR   -3.07%     972M
+  ONTO   -4.85%     244M
+  CIEN   -6.67%    1126M
+  COHR   -7.06%    2112M
+  LITE   -5.22%    4699M
+  AAOI   -9.75%    1091M
+  FN     -5.63%     385M
+  VRT    -3.88%    1157M
+  MOD    -3.34%     269M
+  NVT    -2.54%     317M
+  POWL   -3.33%     110M
+  AAON   -4.62%      93M
+  CLS    -3.63%     780M
+  SMCI   -9.86%    1393M
+  DLR    +0.86%     319M
+  APLD   -11.48%     570M
+  IREN   -11.19%    1718M
+  CORZ   -6.75%     216M
+  NBIS   -12.18%    4097M
+  WULF   -7.45%     477M
+  equal-weight basket: -6.00%
 
 H2 LLM news sentiment, small and mid caps (prior session move, avg 20d dollar vol):
-  ESE    +0.85%      65M
-  FSS    +0.47%      52M
-  GFF    -0.20%      33M
-  ALG    -1.28%      27M
-  TRN    -1.39%      20M
-  GBX    -1.36%      14M
-  BOOT   -1.94%      87M
-  SHAK   +2.69%      93M
-  WING   +0.78%     139M
-  OLLI   +0.47%     158M
-  PLNT   +3.87%     127M
-  ACAD   +3.56%      49M
-  ACHC   +0.67%      45M
-  LNTH   +0.22%     107M
-  OMCL   +1.19%      16M
-  PRCT   +4.04%      25M
-  APPF   -0.10%      68M
-  BRZE   +2.39%      53M
-  KVYO   +2.58%      90M
-  ALRM   +0.16%      24M
-  PCOR   +1.81%     170M
-  PIPR   -1.81%      67M
-  VIRT   -0.58%      80M
-  ESNT   +0.56%      52M
-  RLI    +0.21%      51M
-  SKWD   -1.00%      20M
-  equal-weight basket: +0.65%
+  ESE    -1.40%      66M
+  FSS    -0.95%      53M
+  GFF    -0.39%      33M
+  ALG    -1.28%      28M
+  TRN    -0.98%      20M
+  GBX    -0.41%      14M
+  BOOT   +0.91%      85M
+  SHAK   -0.88%      92M
+  WING   +0.53%     136M
+  OLLI   -2.49%     158M
+  PLNT   +3.06%     128M
+  ACAD   -2.99%      49M
+  ACHC   -3.41%      46M
+  LNTH   -0.29%     101M
+  OMCL   -1.56%      16M
+  PRCT   -3.20%      25M
+  APPF   -2.96%      67M
+  BRZE   -3.42%      54M
+  KVYO   -5.58%      92M
+  ALRM   -0.47%      25M
+  PCOR   -2.76%     169M
+  PIPR   +0.08%      68M
+  VIRT   -0.99%      79M
+  ESNT   +1.47%      52M
+  RLI    +2.67%      49M
+  SKWD   +1.74%      20M
+  equal-weight basket: -1.00%
 
 H3 Domain catalyst: nuclear, utilities, grid (prior session move, avg 20d dollar vol):
-  CCJ    -1.01%     283M
-  LEU    -4.19%     108M
-  UEC    -0.25%      96M
-  UUUU   -3.66%      86M
-  DNN    -0.44%      73M
-  NXE    +1.55%      45M
-  URG    -2.51%       9M
-  BWXT   -0.86%     174M
-  CW     -1.04%     228M
-  MIR    -1.45%      65M
-  OKLO   -2.61%     331M
-  SMR    -2.40%     241M
-  NNE    +1.01%      30M
-  FLR    -0.81%     108M
-  CEG    -3.01%    1130M
-  VST    -1.53%    1113M
-  TLN    -1.01%     406M
-  PEG    -1.64%     299M
-  ETR    -1.25%     287M
-  D      -2.12%     283M
-  SO     -2.09%     535M
-  PNW    -2.18%     135M
-  AEP    -1.90%     441M
-  NRG    -4.21%     318M
-  GEV    -1.39%    2022M
-  PWR    -2.13%     613M
-  MYRG   +1.71%      72M
-  POWL   +0.38%     111M
-  HUBB   +0.83%     225M
-  PRIM   +1.78%     108M
-  MTZ    -0.06%     287M
-  AZZ    +3.42%      36M
-  IESC   -0.45%      86M
-  AGX    +2.86%     127M
-  equal-weight basket: -0.96%
+  CCJ    -2.05%     290M
+  LEU    -9.50%     107M
+  UEC    -3.18%      97M
+  UUUU   -1.17%      88M
+  DNN    -3.39%      72M
+  NXE    -2.22%      46M
+  URG    -5.56%       9M
+  BWXT   -0.14%     176M
+  CW     +0.17%     227M
+  MIR    -2.51%      66M
+  OKLO   -6.80%     343M
+  SMR    -5.20%     252M
+  NNE    -5.22%      32M
+  FLR    -1.51%     108M
+  CEG    -1.32%    1126M
+  VST    -1.39%    1113M
+  TLN    +0.34%     398M
+  PEG    +1.82%     301M
+  ETR    +1.11%     289M
+  D      +1.11%     289M
+  SO     +2.24%     545M
+  PNW    +1.81%     134M
+  AEP    +2.29%     464M
+  NRG    +0.87%     321M
+  GEV    -0.57%    2026M
+  PWR    -1.61%     605M
+  MYRG   -1.89%      73M
+  POWL   -3.33%     110M
+  HUBB   -0.78%     222M
+  PRIM   -0.73%     108M
+  MTZ    -0.32%     297M
+  AZZ    -0.79%      36M
+  IESC   -3.99%      86M
+  AGX    -5.88%     139M
+  equal-weight basket: -1.74%
 
 References:
-  SPY   +0.42%
-  XLU   -2.01%
-  IWM   +0.31%
-  MDY   +0.08%
+  SPY   -1.11%
+  XLU   +1.34%
+  IWM   -1.69%
+  MDY   -0.94%
 
-H11 earnings in the next 7 days (69 names, from cache dated 2026-10-19):
+H11 earnings in the next 7 days (84 names, from cache dated 2026-10-20):
 ticker earnings_date                                 name
-  ZION    2026-10-19                 Zions Bancorporation
-   FNB    2026-10-19                      FNB Corporation
-  WTFC    2026-10-19                   Wintrust Financial
-   CLF    2026-10-19                     Cleveland-Cliffs
-   WAL    2026-10-19      Western Alliance Bancorporation
-   CCK    2026-10-19                       Crown Holdings
-  EWBC    2026-10-20                    East West Bancorp
-   ELS    2026-10-20          Equity Lifestyle Properties
-  CBSH    2026-10-20                  Commerce Bancshares
-   NLY    2026-10-20            Annaly Capital Management
-  PEGA    2026-10-20                          Pegasystems
    MLI    2026-10-20                   Mueller Industries
-  VICR    2026-10-20                    Vicor Corporation
-   VMI    2026-10-20                   Valmont Industries
-  WFRD    2026-10-20            Weatherford International
-   HWC    2026-10-20                      Hancock Whitney
-  ALLY    2026-10-20                       Ally Financial
-   ALK    2026-10-20                     Alaska Air Group
-   ADC    2026-10-20                         Agree Realty
+   NLY    2026-10-20            Annaly Capital Management
    OZK    2026-10-20                             Bank OZK
-   ONB    2026-10-21                    Old National Bank
-   MOH    2026-10-21                    Molina Healthcare
-    SF    2026-10-21                               Stifel
+  PEGA    2026-10-20                          Pegasystems
+   HWC    2026-10-20                      Hancock Whitney
+  EWBC    2026-10-20                    East West Bancorp
+  CBSH    2026-10-20                  Commerce Bancshares
+  VICR    2026-10-20                    Vicor Corporation
+   ELS    2026-10-20          Equity Lifestyle Properties
+   ADC    2026-10-20                         Agree Realty
+  ALLY    2026-10-20                       Ally Financial
+   VMI    2026-10-20                   Valmont Industries
+   ALK    2026-10-20                     Alaska Air Group
+  WFRD    2026-10-20            Weatherford International
     RS    2026-10-21                       Reliance, Inc.
+   KNX    2026-10-21                         Knight-Swift
+   GGG    2026-10-21                           Graco Inc.
+    FR    2026-10-21        First Industrial Realty Trust
+   LAD    2026-10-21                        Lithia Motors
+    WH    2026-10-21             Wyndham Hotels & Resorts
+   FAF    2026-10-21 First American Financial Corporation
   SEIC    2026-10-21              SEI Investments Company
+   MOH    2026-10-21                    Molina Healthcare
+   EGP    2026-10-21                 EastGroup Properties
+    SF    2026-10-21                               Stifel
+   ONB    2026-10-21                    Old National Bank
    SON    2026-10-21                               Sonoco
    SSB    2026-10-21                     South State Bank
   TCBI    2026-10-21             Texas Capital Bancshares
-    WH    2026-10-21             Wyndham Hotels & Resorts
-  PNFP    2026-10-21          Pinnacle Financial Partners
-   LAD    2026-10-21                        Lithia Motors
-  MEDP    2026-10-21                              Medpace
-   EGP    2026-10-21                 EastGroup Properties
-   HXL    2026-10-21                               Hexcel
-   GGG    2026-10-21                           Graco Inc.
-   FAF    2026-10-21 First American Financial Corporation
-    FR    2026-10-21        First Industrial Realty Trust
-   KNX    2026-10-21                         Knight-Swift
   CACI    2026-10-21                   CACI International
-  COLB    2026-10-22              Columbia Banking System
+  MEDP    2026-10-21                              Medpace
+   HXL    2026-10-21                               Hexcel
+  PNFP    2026-10-21          Pinnacle Financial Partners
+   ORI    2026-10-22           Old Republic International
+    VC    2026-10-22                              Visteon
+  REXR    2026-10-22            Rexford Industrial Realty
+   VLY    2026-10-22                          Valley Bank
+   SAM    2026-10-22                  Boston Beer Company
   SIGI    2026-10-22            Selective Insurance Group
    SLM    2026-10-22                             SLM Corp
-   KRC    2026-10-22                   Kilroy Realty Corp
-  UBSI    2026-10-22                    United Bankshares
-    VC    2026-10-22                              Visteon
-   VLY    2026-10-22                          Valley Bank
-   ASB    2026-10-22                      Associated Bank
-   BYD    2026-10-22                          Boyd Gaming
   TTMI    2026-10-22                     TTM Technologies
-   CRS    2026-10-22                 Carpenter Technology
-  GBCI    2026-10-22                      Glacier Bancorp
-  KNSL    2026-10-22                Kinsale Capital Group
-   MSM    2026-10-22                MSC Industrial Direct
-   SAM    2026-10-22                  Boston Beer Company
-   ORI    2026-10-22           Old Republic International
-   AAL    2026-10-22              American Airlines Group
-  FCFS    2026-10-22                            FirstCash
+  UBSI    2026-10-22                    United Bankshares
      R    2026-10-22                                Ryder
-  REXR    2026-10-22            Rexford Industrial Realty
+   MSM    2026-10-22                MSC Industrial Direct
+   AAL    2026-10-22              American Airlines Group
+   CRS    2026-10-22                 Carpenter Technology
+  COLB    2026-10-22              Columbia Banking System
+   BYD    2026-10-22                          Boyd Gaming
+   ASB    2026-10-22                      Associated Bank
+   KRC    2026-10-22                   Kilroy Realty Corp
+  KNSL    2026-10-22                Kinsale Capital Group
+  GBCI    2026-10-22                      Glacier Bancorp
+  FCFS    2026-10-22                            FirstCash
+   ALV    2026-10-23                              Autoliv
   GNTX    2026-10-23                               Gentex
    BAH    2026-10-23                  Booz Allen Hamilton
-   ALV    2026-10-23                              Autoliv
    FLG    2026-10-23                        Flagstar Bank
-   SSD    2026-10-26                Simpson Manufacturing
    BRX    2026-10-26               Brixmor Property Group
-   PII    2026-10-26                              Polaris
-  BMRN    2026-10-26              BioMarin Pharmaceutical
-  AMKR    2026-10-26                     Amkor Technology
   RMBS    2026-10-26                               Rambus
+  BMRN    2026-10-26              BioMarin Pharmaceutical
+   SSD    2026-10-26                Simpson Manufacturing
+   PII    2026-10-26                              Polaris
+  AMKR    2026-10-26                     Amkor Technology
+   TRU    2026-10-27                           TransUnion
+   TNL    2026-10-27                 Travel + Leisure Co.
+   CHE    2026-10-27                         Chemed Corp.
+   AIT    2026-10-27      Applied Industrial Technologies
+  UMBF    2026-10-27                  UMB Financial Corp.
+  STAG    2026-10-27                      STAG Industrial
+   WPC    2026-10-27                          W. P. Carey
+    CR    2026-10-27                                Crane
+   MSA    2026-10-27                           MSA Safety
+  CVLT    2026-10-27                    CommVault Systems
+  EEFT    2026-10-27                    Euronet Worldwide
+  EXLS    2026-10-27                          EXL Service
+   RRC    2026-10-27                      Range Resources
+   RNR    2026-10-27                        RenaissanceRe
+  RGEN    2026-10-27                             Repligen
+  LECO    2026-10-27                     Lincoln Electric
+  LSTR    2026-10-27                      Landstar System
+  MANH    2026-10-27                 Manhattan Associates
+   NOV    2026-10-27                             NOV Inc.
+    ST    2026-10-27                 Sensata Technologies
+   WSO    2026-10-27                               Watsco
